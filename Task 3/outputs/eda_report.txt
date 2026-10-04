@@ -1,0 +1,45 @@
+
+╔══════════════════════════════════════════════════════════════════╗
+║          TASK 3 — EXPLORATORY DATA ANALYSIS REPORT              ║
+╠══════════════════════════════════════════════════════════════════╣
+║  DATASET OVERVIEW                                                ║
+║    Source   : E-Commerce Orders (Synthetic)                      ║
+║    Records  : 1500      Features : 14                               ║
+║    Period   : 2023-01-01  →  2023-12-31              ║
+╠══════════════════════════════════════════════════════════════════╣
+║  STATISTICAL SUMMARY                                             ║
+║    Total Revenue    : ₹     541,097                   ║
+║    Mean Revenue     : ₹    360.73                   ║
+║    Revenue Std Dev  : ₹    450.06                   ║
+║    Revenue Skewness :     2.936                        ║
+║    Mean Rating      :    3.87 / 5.00                     ║
+║    Overall Return % :   10.5%                        ║
+║    Avg Delivery Days:    7.5 days                    ║
+╠══════════════════════════════════════════════════════════════════╣
+║  KEY FINDINGS                                                    ║
+║  1. Electronics leads revenue at ₹334,601              ║
+║  2. Website is the dominant sales channel          ║
+║  3. Sports category has highest return rate (14.5%)  ║
+║  4. Low-rated orders (1-2★) return 20.3% vs 8.5% for high-rated  ║
+║  5. Revenue peaks in August (₹54,293)      ║
+║  6. Delivery time negatively correlates with satisfaction        ║
+║  7. Discount offers weak negative effect on net revenue          ║
+║  8. Age group 26-35 places the most orders across categories     ║
+╠══════════════════════════════════════════════════════════════════╣
+║  RECOMMENDATIONS                                                 ║
+║  ► Focus marketing budget on Electronics & Home & Kitchen categories      ║
+║  ► Improve delivery SLA — target under 5 days to boost ratings  ║
+║  ► Review return policy for Sports — high return risk        ║
+║  ► Leverage Website & Mobile App for promotions     ║
+║  ► Tailor campaigns for 26-35 age segment                        ║
+╠══════════════════════════════════════════════════════════════════╣
+║  OUTPUT FILES                                                    ║
+║    outputs/ecommerce_raw.csv                                     ║
+║    outputs/ecommerce_cleaned.csv                                 ║
+║    outputs/statistical_summary.csv                               ║
+║    outputs/dashboard_1_overview.png                              ║
+║    outputs/dashboard_2_distributions.png                         ║
+║    outputs/dashboard_3_customers.png                             ║
+║    outputs/dashboard_4_statistics.png                            ║
+║    outputs/eda_report.txt                                        ║
+╚══════════════════════════════════════════════════════════════════╝

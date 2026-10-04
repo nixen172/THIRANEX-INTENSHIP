@@ -1,0 +1,31 @@
+
+╔══════════════════════════════════════════════════════════════╗
+║       TASK 2 — PREDICTIVE MODELING REPORT                    ║
+╠══════════════════════════════════════════════════════════════╣
+║  DATASET                                                     ║
+║    Rows    : 1000     Features : 8                               ║
+║    Target  : Customer Churn (Binary Classification)          ║
+║    Churn % : 27.7%                                         ║
+╠══════════════════════════════════════════════════════════════╣
+║  MODEL RESULTS                                               ║
+╠══════════════════════════════════════════════════════════════╣
+║  Log. Reg.          Acc=0.715  F1=0.000  CV=0.726±0.005  ║
+║  Dec. Tree          Acc=0.670  F1=0.195  CV=0.646±0.023  ║
+║  Rand. Forest       Acc=0.710  F1=0.000  CV=0.714±0.007  ║
+╠══════════════════════════════════════════════════════════════╣
+║  BEST MODEL   : Decision Tree             F1 = 0.195      ║
+║  BEST ACCURACY: 67.00%                                          ║
+╠══════════════════════════════════════════════════════════════╣
+║  TOP FEATURES (Random Forest)                                ║
+║    Monthly_Charge             Importance = 0.2479              ║
+║    Tenure_Months              Importance = 0.2093              ║
+║    Age                        Importance = 0.1859              ║
+║    Support_Calls              Importance = 0.1231              ║
+╠══════════════════════════════════════════════════════════════╣
+║  OUTPUT FILES                                                ║
+║    outputs/churn_dataset.csv                                 ║
+║    outputs/model_metrics.csv                                 ║
+║    outputs/dashboard_1_model_performance.png                 ║
+║    outputs/dashboard_2_roc_features.png                      ║
+║    outputs/dashboard_3_eda_tree.png                          ║
+╚══════════════════════════════════════════════════════════════╝

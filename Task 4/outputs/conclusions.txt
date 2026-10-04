@@ -1,0 +1,35 @@
+TASK 4 - PROJECT CONCLUSIONS
+=============================
+Domain   : Health
+Dataset  : Breast Cancer Wisconsin (Diagnostic) - 569 patient records, 30 numeric
+           tumor-cell measurements derived from biopsy imaging.
+Goal     : Predict whether a tumor is Malignant or Benign from cell measurements.
+
+Key Findings
+------------
+1. Class balance: dataset is moderately imbalanced (~63% Benign / 37% Malignant);
+   stratified train/test split was used to preserve this ratio.
+2. Several mean-value features (radius, perimeter, area, concavity) are strongly
+   correlated with each other and with the diagnosis - larger / more irregular
+   cell measurements are strongly associated with malignant tumors.
+3. Best performing model: Logistic Regression
+     Accuracy : 0.9825
+     Precision: 0.9861
+     Recall   : 0.9861
+     F1-score : 0.9861
+     ROC-AUC  : 0.9954
+4. Top predictive features (Random Forest importance): worst perimeter, worst area, worst concave points, mean concave points, worst radius.
+5. Both models achieve high recall on the Malignant class, which is the clinically
+   critical metric - missing a malignant case (false negative) is far costlier
+   than a false alarm.
+
+Recommendation
+--------------
+Logistic Regression is recommended for this use case based on its higher ROC-AUC score.
+Random Forest remains valuable alongside it for interpretability, since it
+exposes feature importances that help clinicians understand which measurements
+drive a prediction. For deployment, recall on the Malignant class should be
+monitored closely and the probability threshold tuned to minimize false
+negatives (missed cancer cases).
+
+All supporting charts are saved in the outputs/ folder (01-07, .png).

@@ -1,0 +1,1501 @@
+Order_ID,Date,Category,Region,Channel,Gender,Age,Price,Quantity,Discount_Pct,Revenue,Rating,Delivery_Days,Returned
+ORD-10000,2023-10-31,Electronics,South,Website,Female,25.0,226.47,1,10,203.82,3.0,1,0
+ORD-10001,2023-03-29,Home & Kitchen,Central,Social Media,Other,50.0,220.12,4,10,792.43,4.0,2,0
+ORD-10002,2023-05-14,Clothing,East,Website,Male,61.0,91.27,1,10,82.14,4.0,2,0
+ORD-10003,2023-05-16,Home & Kitchen,East,In-Store,Female,63.0,142.35,3,10,384.34,5.0,12,0
+ORD-10004,2023-12-06,Beauty,South,Mobile App,Male,44.0,92.79,3,15,236.61,2.0,7,1
+ORD-10005,2023-01-19,Books,East,Website,Female,55.0,29.29,1,10,26.36,5.0,3,0
+ORD-10006,2023-05-17,Books,North,Social Media,Female,70.0,47.54,1,15,40.41,4.0,8,0
+ORD-10007,2023-03-07,Electronics,South,Mobile App,Male,43.0,659.71,5,0,3298.55,5.0,13,0
+ORD-10008,2023-09-13,Clothing,South,Website,Female,24.0,79.42,2,10,142.96,5.0,2,0
+ORD-10009,2023-01-18,Books,Central,Social Media,Female,59.0,38.12,1,0,38.12,4.0,1,0
+ORD-10010,2023-12-06,Home & Kitchen,South,Website,Male,52.0,205.61,4,15,699.07,5.0,11,0
+ORD-10011,2023-05-04,Sports,South,Mobile App,Male,55.0,90.27,2,15,153.46,5.0,13,1
+ORD-10012,2023-05-09,Clothing,Central,In-Store,Male,51.0,78.36,3,5,223.33,4.0,12,0
+ORD-10013,2023-08-13,Electronics,East,In-Store,Female,19.0,612.29,1,0,612.29,4.0,8,0
+ORD-10014,2023-01-29,Clothing,Central,In-Store,Female,36.0,110.11,2,20,176.18,4.0,11,0
+ORD-10015,2023-10-12,Beauty,North,In-Store,Female,19.0,79.96,1,0,79.96,,12,0
+ORD-10016,2023-09-05,Electronics,Central,In-Store,Male,45.0,425.41,2,10,765.74,3.0,7,0
+ORD-10017,2023-05-29,Clothing,Central,Website,Female,18.0,63.7,1,0,63.7,5.0,9,0
+ORD-10018,2023-11-07,Beauty,Central,Mobile App,Male,24.0,56.71,4,10,204.16,3.0,11,0
+ORD-10019,2023-09-06,Electronics,South,Mobile App,Female,34.0,757.1,1,0,757.1,4.0,6,0
+ORD-10020,2023-09-10,Home & Kitchen,South,Website,Male,36.0,180.3,2,25,270.45,2.0,13,0
+ORD-10021,2023-04-28,Beauty,East,Mobile App,Female,71.0,76.62,2,0,153.24,5.0,3,0
+ORD-10022,2023-09-22,Electronics,West,In-Store,Male,37.0,370.7,4,20,1186.24,5.0,2,0
+ORD-10023,2023-12-29,Books,North,Mobile App,Male,30.0,46.89,2,10,84.4,5.0,8,0
+ORD-10024,2023-11-19,Beauty,South,Mobile App,Female,30.0,92.47,2,0,184.94,4.0,9,0
+ORD-10025,2023-09-26,Electronics,Central,Mobile App,Male,69.0,698.72,1,0,698.72,5.0,9,0
+ORD-10026,2023-03-12,Books,South,Mobile App,Female,44.0,29.44,1,0,29.44,4.0,4,1
+ORD-10027,2023-10-23,Home & Kitchen,West,In-Store,Male,47.0,113.94,3,20,273.46,3.0,6,0
+ORD-10028,2023-08-06,Home & Kitchen,North,Social Media,Female,59.0,187.37,1,15,159.26,2.0,4,0
+ORD-10029,2023-02-01,Clothing,West,Website,Female,60.0,99.0,3,15,252.45,5.0,8,0
+ORD-10030,2023-02-05,Electronics,South,Website,Male,24.0,306.51,1,10,275.86,4.0,13,0
+ORD-10031,2023-08-03,Books,East,Website,Female,45.0,15.61,3,20,37.46,3.0,4,0
+ORD-10032,2023-04-11,Clothing,North,Social Media,Female,71.0,133.11,3,10,359.4,5.0,11,0
+ORD-10033,2023-11-25,Books,North,Social Media,Male,32.0,47.78,3,5,136.17,4.0,5,0
+ORD-10034,2023-07-29,Clothing,West,Website,Female,45.0,83.84,1,0,83.84,5.0,6,0
+ORD-10035,2023-12-06,Sports,North,In-Store,Male,30.0,58.56,3,0,175.68,4.0,14,0
+ORD-10036,2023-06-05,Home & Kitchen,Central,Mobile App,Female,45.0,174.19,2,15,296.12,5.0,13,0
+ORD-10037,2023-05-04,Clothing,South,Social Media,Male,41.0,84.57,1,0,84.57,4.0,13,0
+ORD-10038,2023-09-01,Books,West,Mobile App,Female,50.0,41.41,4,0,165.64,5.0,10,0
+ORD-10039,2023-10-11,Clothing,South,Social Media,Male,62.0,67.77,2,5,128.76,4.0,13,1
+ORD-10040,2023-07-11,Clothing,North,Mobile App,Other,58.0,75.24,2,15,127.91,3.0,5,0
+ORD-10041,2023-01-28,Clothing,South,Website,Female,46.0,106.34,1,20,85.07,4.0,4,0
+ORD-10042,2023-06-27,Home & Kitchen,West,In-Store,Female,45.0,212.61,1,20,170.09,4.0,14,0
+ORD-10043,2023-09-10,Clothing,West,Website,Female,43.0,62.02,1,15,52.72,5.0,12,0
+ORD-10044,2023-02-06,Clothing,South,In-Store,Female,41.0,80.25,3,10,216.68,3.0,4,1
+ORD-10045,2023-01-07,Home & Kitchen,Central,Mobile App,Male,46.0,,1,25,165.18,4.0,12,0
+ORD-10046,2023-02-03,Clothing,West,Website,Male,52.0,103.19,3,25,232.18,3.0,1,0
+ORD-10047,2023-09-09,Beauty,East,Mobile App,Male,28.0,37.8,1,5,35.91,4.0,5,0
+ORD-10048,2023-02-12,Electronics,West,Social Media,Male,68.0,399.85,3,0,1199.55,4.0,12,0
+ORD-10049,2023-09-12,Home & Kitchen,North,Website,Female,28.0,203.59,4,20,651.49,3.0,4,0
+ORD-10050,2023-06-04,Clothing,North,Website,Other,64.0,43.67,1,0,43.67,5.0,10,0
+ORD-10051,2023-03-30,Clothing,North,Social Media,Other,60.0,135.8,2,20,217.28,5.0,9,0
+ORD-10052,2023-03-11,Home & Kitchen,South,Website,Male,35.0,216.45,2,0,432.9,4.0,8,0
+ORD-10053,2023-09-25,Books,South,Website,Male,60.0,28.19,3,10,76.11,1.0,14,0
+ORD-10054,2023-11-03,Clothing,North,Mobile App,Female,63.0,48.0,1,0,48.0,3.0,6,0
+ORD-10055,2023-12-21,Electronics,West,In-Store,Male,53.0,673.82,1,0,673.82,4.0,14,0
+ORD-10056,2023-01-19,Electronics,East,Social Media,Female,38.0,262.98,1,5,249.83,3.0,3,0
+ORD-10057,2023-04-11,Home & Kitchen,West,Website,Female,45.0,187.18,1,5,177.82,5.0,9,0
+ORD-10058,2023-12-15,Books,South,Website,Female,50.0,46.9,1,0,46.9,5.0,3,0
+ORD-10059,2023-07-10,Home & Kitchen,East,Social Media,Female,21.0,82.57,2,15,140.37,4.0,1,1
+ORD-10060,2023-07-08,Beauty,South,Mobile App,Male,46.0,87.84,3,20,210.82,4.0,8,0
+ORD-10061,2023-09-16,Home & Kitchen,East,Social Media,Female,37.0,74.36,2,0,148.72,3.0,5,0
+ORD-10062,2023-03-15,Electronics,East,Mobile App,Male,22.0,754.23,3,20,1810.15,5.0,12,0
+ORD-10063,2023-11-28,Clothing,Central,Website,Female,37.0,91.41,1,25,68.56,4.0,13,0
+ORD-10064,2023-06-16,Books,Central,Social Media,Female,65.0,39.15,3,0,117.45,4.0,12,0
+ORD-10065,2023-03-10,Electronics,North,Website,Female,53.0,691.93,1,10,622.74,4.0,13,0
+ORD-10066,2023-06-08,Beauty,South,Website,Female,38.0,98.04,4,0,392.16,2.0,7,0
+ORD-10067,2023-05-16,Beauty,West,Mobile App,Male,33.0,39.0,1,10,35.1,4.0,5,0
+ORD-10068,2023-07-12,Sports,West,Website,Male,59.0,56.93,1,0,56.93,5.0,5,0
+ORD-10069,2023-09-17,Books,South,Website,Female,18.0,,1,15,42.71,5.0,1,0
+ORD-10070,2023-11-06,Sports,West,Website,Female,65.0,80.51,1,0,80.51,3.0,14,1
+ORD-10071,2023-06-12,Electronics,South,Website,Female,35.0,488.92,1,0,488.92,5.0,10,0
+ORD-10072,2023-05-31,Clothing,North,Mobile App,Female,30.0,122.16,3,25,274.86,5.0,9,0
+ORD-10073,2023-05-25,Clothing,West,In-Store,Male,39.0,123.83,1,20,99.06,4.0,6,0
+ORD-10074,2023-03-04,Home & Kitchen,South,Mobile App,Male,30.0,176.56,2,20,282.5,5.0,6,0
+ORD-10075,2023-09-04,Books,Central,Website,Female,40.0,54.71,2,0,109.42,4.0,2,1
+ORD-10076,2023-12-27,Electronics,East,Mobile App,Female,31.0,738.38,2,10,1329.08,4.0,12,0
+ORD-10077,2023-05-29,Clothing,North,In-Store,Male,64.0,62.08,1,15,52.77,4.0,5,0
+ORD-10078,2023-03-25,Clothing,Central,Website,Female,48.0,131.89,1,10,118.7,5.0,9,0
+ORD-10079,2023-04-13,Clothing,East,Mobile App,Female,66.0,96.21,5,10,432.94,4.0,4,0
+ORD-10080,2023-07-29,Electronics,Central,Social Media,Female,24.0,311.1,2,20,497.76,2.0,9,1
+ORD-10081,2023-02-02,Clothing,South,In-Store,Female,45.0,80.75,1,0,80.75,4.0,7,0
+ORD-10082,2023-05-16,Clothing,Central,Mobile App,Female,23.0,75.06,3,10,202.66,5.0,9,1
+ORD-10083,2023-10-10,Home & Kitchen,Central,Website,Male,51.0,237.59,2,0,475.18,4.0,8,0
+ORD-10084,2023-02-25,Sports,East,Website,Male,71.0,161.84,4,15,550.26,3.0,14,0
+ORD-10085,2023-09-11,Books,North,Website,Male,44.0,24.62,1,20,19.7,5.0,6,0
+ORD-10086,2023-11-21,Clothing,West,Website,Male,31.0,76.96,1,5,73.11,5.0,11,0
+ORD-10087,2023-12-21,Home & Kitchen,West,Mobile App,Male,54.0,77.33,2,15,131.46,5.0,8,0
+ORD-10088,2023-06-01,Sports,South,Mobile App,Other,59.0,51.91,1,5,49.31,2.0,7,0
+ORD-10089,2023-12-17,Home & Kitchen,Central,Website,Female,29.0,130.7,5,0,653.5,3.0,8,0
+ORD-10090,2023-08-11,Sports,North,Mobile App,Female,59.0,63.32,2,0,126.64,5.0,10,0
+ORD-10091,2023-06-26,Beauty,South,Mobile App,Male,36.0,89.53,5,0,447.65,4.0,9,0
+ORD-10092,2023-09-29,Electronics,North,In-Store,Female,44.0,764.36,2,10,1375.85,2.0,13,0
+ORD-10093,2023-08-20,Sports,North,Social Media,Male,23.0,88.66,3,15,226.08,5.0,4,1
+ORD-10094,2023-06-22,Clothing,Central,Social Media,Male,19.0,45.0,4,0,180.0,4.0,9,0
+ORD-10095,2023-12-05,Books,South,Mobile App,Female,50.0,23.93,4,0,95.72,3.0,11,0
+ORD-10096,2023-09-13,Sports,West,Social Media,Female,24.0,135.09,5,20,540.36,3.0,3,0
+ORD-10097,2023-07-11,Home & Kitchen,West,Mobile App,Female,65.0,138.11,1,25,103.58,4.0,14,0
+ORD-10098,2023-04-17,Electronics,South,Website,Male,69.0,570.63,1,10,513.57,4.0,7,0
+ORD-10099,2023-05-26,Home & Kitchen,South,Website,Male,71.0,139.7,1,0,139.7,2.0,6,0
+ORD-10100,2023-02-08,Electronics,West,Mobile App,Male,22.0,409.4,2,10,736.92,3.0,4,0
+ORD-10101,2023-08-03,Clothing,West,In-Store,Female,34.0,,2,5,122.51,5.0,4,0
+ORD-10102,2023-12-11,Sports,North,In-Store,Female,59.0,157.35,1,0,157.35,4.0,12,1
+ORD-10103,2023-05-12,Clothing,North,Mobile App,Female,21.0,72.87,1,15,61.94,3.0,7,0
+ORD-10104,2023-03-17,Books,Central,Mobile App,Female,48.0,17.66,3,5,50.33,5.0,14,0
+ORD-10105,2023-03-02,Home & Kitchen,Central,In-Store,Male,39.0,202.24,3,0,606.72,1.0,12,1
+ORD-10106,2023-05-22,Sports,South,In-Store,Female,66.0,132.87,2,0,265.74,5.0,5,0
+ORD-10107,2023-08-28,Home & Kitchen,West,Website,Female,29.0,128.32,4,15,436.29,3.0,4,0
+ORD-10108,2023-07-15,Electronics,West,Mobile App,Other,44.0,703.27,1,15,597.78,4.0,5,0
+ORD-10109,2023-01-22,Clothing,East,Website,Male,55.0,43.44,2,15,73.85,5.0,14,0
+ORD-10110,2023-08-15,Clothing,North,Mobile App,Male,21.0,140.74,1,15,119.63,5.0,9,1
+ORD-10111,2023-03-13,Electronics,South,Mobile App,Female,67.0,506.41,1,15,430.45,4.0,3,0
+ORD-10112,2023-05-17,Books,North,Website,Male,,17.69,1,0,17.69,4.0,1,1
+ORD-10113,2023-04-24,Home & Kitchen,East,In-Store,Male,52.0,136.14,1,10,122.53,4.0,10,0
+ORD-10114,2023-08-24,Sports,North,Mobile App,Female,38.0,134.58,2,10,242.24,4.0,1,0
+ORD-10115,2023-11-23,Beauty,West,Social Media,Female,55.0,92.0,3,0,276.0,5.0,9,0
+ORD-10116,2023-03-17,Electronics,East,Website,Male,28.0,522.99,1,5,496.84,2.0,10,0
+ORD-10117,2023-10-27,Electronics,East,Website,Male,51.0,688.36,4,5,2615.77,3.0,5,1
+ORD-10118,2023-12-27,Home & Kitchen,West,Website,Female,67.0,191.62,2,20,306.59,3.0,1,0
+ORD-10119,2023-09-28,Electronics,North,Social Media,Female,32.0,361.23,1,0,361.23,4.0,2,0
+ORD-10120,2023-06-13,Electronics,East,Mobile App,Other,19.0,218.92,2,0,437.84,2.0,2,1
+ORD-10121,2023-04-01,Books,North,In-Store,Male,21.0,38.67,5,5,183.68,4.0,3,0
+ORD-10122,2023-12-20,Electronics,West,Website,Male,53.0,484.48,2,15,823.62,5.0,5,0
+ORD-10123,2023-06-03,Sports,North,In-Store,Female,35.0,107.49,2,0,214.98,5.0,5,0
+ORD-10124,2023-11-20,Sports,West,Website,Female,27.0,56.27,3,0,168.81,4.0,9,0
+ORD-10125,2023-09-27,Electronics,West,Social Media,Male,53.0,551.49,1,15,468.77,4.0,3,0
+ORD-10126,2023-06-10,Books,East,Mobile App,Male,60.0,51.64,2,5,98.12,3.0,2,0
+ORD-10127,2023-08-02,Sports,North,Social Media,Male,48.0,134.29,1,0,134.29,2.0,2,1
+ORD-10128,2023-10-22,Beauty,West,Mobile App,Male,56.0,34.22,2,25,51.33,5.0,1,1
+ORD-10129,2023-10-19,Clothing,South,Mobile App,Female,50.0,90.01,1,0,90.01,2.0,14,1
+ORD-10130,2023-06-08,Electronics,North,Website,Male,52.0,656.86,2,5,1248.03,3.0,6,0
+ORD-10131,2023-12-05,Sports,West,Mobile App,Male,50.0,157.33,1,0,157.33,2.0,14,0
+ORD-10132,2023-06-10,Beauty,South,In-Store,Other,69.0,48.82,2,5,92.76,5.0,4,0
+ORD-10133,2023-02-19,Electronics,Central,Mobile App,Female,38.0,475.31,3,5,1354.63,2.0,14,0
+ORD-10134,2023-09-03,Clothing,West,In-Store,Male,,107.15,3,15,273.23,3.0,11,0
+ORD-10135,2023-10-24,Home & Kitchen,South,Social Media,Female,71.0,121.03,2,20,193.65,3.0,8,1
+ORD-10136,2023-05-23,Sports,East,In-Store,Male,38.0,54.98,2,0,109.96,4.0,12,0
+ORD-10137,2023-08-25,Electronics,North,Mobile App,Male,19.0,679.51,2,25,1019.26,4.0,9,0
+ORD-10138,2023-02-24,Home & Kitchen,East,Mobile App,Female,43.0,126.81,1,0,126.81,3.0,4,1
+ORD-10139,2023-03-15,Sports,Central,Mobile App,Female,39.0,107.91,2,20,172.66,5.0,8,1
+ORD-10140,2023-01-28,Books,South,In-Store,Other,19.0,38.36,2,20,61.38,5.0,6,0
+ORD-10141,2023-04-22,Electronics,Central,In-Store,Male,52.0,216.72,2,15,368.42,4.0,4,0
+ORD-10142,2023-12-27,Electronics,East,In-Store,Male,37.0,758.41,2,15,1289.3,4.0,13,0
+ORD-10143,2023-07-30,Clothing,East,Website,Male,29.0,59.61,2,10,107.3,3.0,14,0
+ORD-10144,2023-09-13,Sports,East,Website,Male,38.0,142.93,3,5,407.35,,11,0
+ORD-10145,2023-09-13,Electronics,West,Mobile App,Male,63.0,691.54,1,0,691.54,5.0,8,0
+ORD-10146,2023-03-14,Electronics,East,Mobile App,Male,55.0,279.4,1,10,251.46,5.0,13,0
+ORD-10147,2023-11-20,Clothing,North,Social Media,Male,28.0,109.11,4,15,370.97,5.0,4,0
+ORD-10148,2023-04-21,Electronics,South,Social Media,Female,69.0,446.67,1,5,424.34,4.0,9,0
+ORD-10149,2023-12-21,Electronics,Central,Social Media,Female,33.0,374.34,3,0,1123.02,1.0,4,0
+ORD-10150,2023-12-27,Electronics,North,Mobile App,Male,67.0,416.37,1,10,374.73,2.0,7,0
+ORD-10151,2023-07-08,Books,South,In-Store,Male,61.0,39.64,2,0,79.28,4.0,14,0
+ORD-10152,2023-07-13,Home & Kitchen,Central,In-Store,Female,26.0,215.64,1,20,172.51,2.0,11,0
+ORD-10153,2023-08-04,Clothing,West,Website,Female,37.0,136.53,3,0,409.59,5.0,3,0
+ORD-10154,2023-05-23,Electronics,North,Website,Female,38.0,377.87,2,10,680.17,5.0,8,0
+ORD-10155,2023-04-11,Clothing,North,Website,Male,66.0,102.97,3,15,262.57,5.0,13,0
+ORD-10156,2023-01-11,Books,East,Mobile App,Male,63.0,35.78,1,20,28.62,4.0,4,0
+ORD-10157,2023-04-27,Beauty,East,Social Media,Male,21.0,39.9,1,15,33.92,5.0,10,0
+ORD-10158,2023-11-08,Beauty,Central,Website,Male,63.0,53.97,4,20,172.7,5.0,9,0
+ORD-10159,2023-03-20,Electronics,Central,Website,Female,51.0,270.8,3,0,812.4,5.0,9,0
+ORD-10160,2023-07-20,Electronics,Central,Website,Female,38.0,507.2,2,15,862.24,5.0,14,0
+ORD-10161,2023-09-26,Sports,Central,In-Store,Male,60.0,67.18,2,10,120.92,4.0,9,0
+ORD-10162,2023-08-07,Beauty,South,Mobile App,Female,49.0,47.81,1,5,45.42,4.0,13,0
+ORD-10163,2023-12-09,Clothing,West,Website,Female,28.0,103.13,2,0,206.26,4.0,10,0
+ORD-10164,2023-07-31,Home & Kitchen,East,Mobile App,Male,48.0,87.49,4,0,349.96,4.0,10,0
+ORD-10165,2023-10-07,Sports,Central,Website,Male,69.0,54.17,2,0,108.34,5.0,9,0
+ORD-10166,2023-10-31,Home & Kitchen,North,Website,Male,50.0,216.52,2,10,389.74,2.0,14,1
+ORD-10167,2023-11-06,Sports,Central,Mobile App,Female,54.0,160.29,1,0,160.29,3.0,2,0
+ORD-10168,2023-06-17,Electronics,Central,In-Store,Female,67.0,429.42,1,15,365.01,4.0,13,0
+ORD-10169,2023-02-09,Clothing,West,Website,Female,67.0,94.68,3,0,284.04,3.0,7,1
+ORD-10170,2023-10-23,Clothing,West,Mobile App,Female,35.0,66.53,2,10,119.75,4.0,12,0
+ORD-10171,2023-01-08,Electronics,North,Website,Male,37.0,585.73,1,10,527.16,1.0,13,0
+ORD-10172,2023-05-24,Beauty,North,Social Media,Female,21.0,34.41,2,5,65.38,4.0,2,0
+ORD-10173,2023-06-14,Electronics,South,Website,Female,44.0,357.46,3,20,857.9,4.0,2,0
+ORD-10174,2023-06-06,Home & Kitchen,East,Mobile App,Male,30.0,129.51,1,25,97.13,5.0,8,0
+ORD-10175,2023-09-23,Electronics,South,Social Media,Female,45.0,358.7,1,0,358.7,2.0,6,0
+ORD-10176,2023-05-24,Clothing,South,Website,Female,34.0,133.15,3,0,399.45,5.0,1,0
+ORD-10177,2023-02-05,Clothing,East,Website,Male,35.0,133.99,2,0,267.98,5.0,7,0
+ORD-10178,2023-01-13,Electronics,South,In-Store,Female,66.0,530.54,1,0,530.54,3.0,9,0
+ORD-10179,2023-03-25,Books,Central,Mobile App,Male,55.0,18.06,3,0,54.18,3.0,11,0
+ORD-10180,2023-04-21,Books,South,Website,Male,43.0,27.38,1,25,20.54,5.0,5,0
+ORD-10181,2023-08-15,Clothing,Central,Mobile App,Male,46.0,131.29,1,20,105.03,4.0,3,0
+ORD-10182,2023-03-28,Home & Kitchen,South,In-Store,Female,26.0,180.04,3,5,513.11,5.0,13,0
+ORD-10183,2023-11-09,Electronics,North,In-Store,Male,46.0,730.59,2,10,1315.06,4.0,14,0
+ORD-10184,2023-07-07,Electronics,North,Website,Male,19.0,389.52,2,10,701.14,4.0,13,0
+ORD-10185,2023-07-10,Clothing,North,In-Store,Female,28.0,106.08,1,0,106.08,4.0,12,0
+ORD-10186,2023-02-23,Clothing,West,Social Media,Female,42.0,57.42,1,10,51.68,5.0,11,0
+ORD-10187,2023-10-20,Electronics,South,Website,Female,32.0,702.13,2,5,1334.05,4.0,13,0
+ORD-10188,2023-12-06,Beauty,East,In-Store,Female,32.0,96.63,2,0,193.26,5.0,10,0
+ORD-10189,2023-04-25,Sports,South,Mobile App,Male,44.0,129.84,4,0,519.36,3.0,3,0
+ORD-10190,2023-11-03,Electronics,South,In-Store,Male,18.0,521.38,1,10,469.24,5.0,14,0
+ORD-10191,2023-05-05,Clothing,South,Website,Female,70.0,135.48,1,25,101.61,3.0,7,0
+ORD-10192,2023-04-10,Electronics,North,Website,Male,23.0,342.64,2,0,685.28,3.0,2,0
+ORD-10193,2023-10-18,Clothing,North,Website,Male,54.0,130.24,2,5,247.46,4.0,13,0
+ORD-10194,2023-03-10,Clothing,East,In-Store,Female,60.0,46.77,1,0,46.77,3.0,12,0
+ORD-10195,2023-08-12,Books,South,Mobile App,Female,61.0,30.14,3,0,90.42,5.0,7,0
+ORD-10196,2023-07-01,Beauty,South,Website,Female,65.0,77.07,3,20,184.97,4.0,7,0
+ORD-10197,2023-12-14,Clothing,North,In-Store,Male,44.0,119.34,1,10,107.41,5.0,3,0
+ORD-10198,2023-02-01,Home & Kitchen,Central,Website,Female,39.0,144.44,1,5,137.22,4.0,11,0
+ORD-10199,2023-02-05,Books,South,Website,Male,37.0,46.83,3,0,140.49,4.0,4,0
+ORD-10200,2023-12-01,Home & Kitchen,North,Mobile App,Male,68.0,189.87,3,20,455.69,4.0,14,0
+ORD-10201,2023-08-15,Electronics,South,Website,Male,56.0,484.12,1,20,387.3,5.0,4,0
+ORD-10202,2023-11-30,Home & Kitchen,Central,Mobile App,Male,68.0,133.19,2,5,253.06,3.0,11,0
+ORD-10203,2023-09-23,Beauty,South,Mobile App,Female,28.0,71.99,1,15,61.19,5.0,6,0
+ORD-10204,2023-05-03,Home & Kitchen,North,Website,Female,71.0,262.35,3,10,708.34,4.0,7,0
+ORD-10205,2023-04-17,Clothing,East,Website,Female,50.0,116.9,2,10,210.42,5.0,6,1
+ORD-10206,2023-09-10,Home & Kitchen,West,In-Store,Female,51.0,87.49,2,5,166.23,4.0,14,0
+ORD-10207,2023-04-01,Home & Kitchen,West,Mobile App,Male,50.0,101.78,1,0,101.78,4.0,6,1
+ORD-10208,2023-10-05,Home & Kitchen,South,Website,Male,71.0,256.12,4,0,1024.48,1.0,13,1
+ORD-10209,2023-05-11,Electronics,Central,Website,Male,18.0,367.28,2,0,734.56,4.0,1,0
+ORD-10210,2023-10-05,Beauty,North,Mobile App,Female,62.0,96.72,1,5,91.88,4.0,3,0
+ORD-10211,2023-06-23,Beauty,West,In-Store,Female,57.0,42.56,1,5,40.43,5.0,2,0
+ORD-10212,2023-12-04,Clothing,Central,Website,Male,28.0,61.59,1,0,61.59,5.0,10,0
+ORD-10213,2023-06-03,Books,Central,Social Media,Male,29.0,53.88,1,10,48.49,3.0,7,0
+ORD-10214,2023-01-08,Electronics,East,Website,Male,54.0,586.98,2,0,1173.96,5.0,8,1
+ORD-10215,2023-04-15,Beauty,South,Mobile App,Male,32.0,91.69,3,0,275.07,4.0,14,0
+ORD-10216,2023-11-11,Sports,South,In-Store,Male,18.0,169.28,3,10,457.06,2.0,1,0
+ORD-10217,2023-07-31,Home & Kitchen,North,Mobile App,Female,66.0,85.02,3,15,216.8,4.0,9,0
+ORD-10218,2023-06-06,Home & Kitchen,Central,Website,Female,47.0,110.09,1,20,88.07,4.0,7,0
+ORD-10219,2023-11-01,Electronics,West,Website,Male,49.0,288.66,1,0,288.66,2.0,4,0
+ORD-10220,2023-11-19,Clothing,North,Mobile App,Male,51.0,69.86,1,20,55.89,4.0,3,1
+ORD-10221,2023-09-21,Electronics,North,Social Media,Female,28.0,311.98,2,0,623.96,5.0,4,0
+ORD-10222,2023-04-20,Books,North,Mobile App,Female,39.0,25.27,1,0,25.27,4.0,14,0
+ORD-10223,2023-05-23,Electronics,West,Website,Female,47.0,398.17,1,5,378.26,4.0,13,0
+ORD-10224,2023-08-27,Sports,North,Mobile App,Female,56.0,67.31,2,0,134.62,5.0,12,0
+ORD-10225,2023-07-24,Clothing,East,Social Media,Female,63.0,74.17,2,0,148.34,1.0,3,1
+ORD-10226,2023-07-13,Clothing,West,Website,Male,32.0,121.27,1,0,121.27,3.0,9,0
+ORD-10227,2023-08-10,Electronics,Central,Website,Female,18.0,600.17,1,0,600.17,4.0,4,0
+ORD-10228,2023-02-16,Home & Kitchen,West,Social Media,Male,33.0,,3,15,221.47,2.0,5,0
+ORD-10229,2023-09-17,Sports,South,Website,Male,27.0,83.73,3,0,251.19,4.0,13,1
+ORD-10230,2023-07-06,Home & Kitchen,South,In-Store,Male,48.0,144.11,1,0,144.11,4.0,7,0
+ORD-10231,2023-04-19,Electronics,Central,Mobile App,Male,68.0,735.37,2,5,1397.2,5.0,9,0
+ORD-10232,2023-02-18,Sports,Central,Social Media,Female,18.0,108.74,2,20,173.98,3.0,11,1
+ORD-10233,2023-10-21,Electronics,South,Website,Male,67.0,500.44,2,10,900.79,3.0,4,0
+ORD-10234,2023-09-06,Sports,North,Social Media,Male,44.0,75.84,2,10,136.51,3.0,5,0
+ORD-10235,2023-09-09,Books,West,Website,Male,52.0,16.73,3,15,42.66,2.0,4,0
+ORD-10236,2023-10-29,Clothing,West,In-Store,Female,50.0,87.06,1,5,82.71,4.0,14,0
+ORD-10237,2023-12-13,Books,East,Website,Female,48.0,31.86,1,0,31.86,5.0,9,0
+ORD-10238,2023-06-23,Home & Kitchen,North,Mobile App,Female,21.0,237.23,4,0,948.92,2.0,3,0
+ORD-10239,2023-12-09,Clothing,South,In-Store,Female,52.0,112.97,1,15,96.02,3.0,7,1
+ORD-10240,2023-08-06,Sports,North,Mobile App,Male,66.0,108.75,2,20,174.0,5.0,9,0
+ORD-10241,2023-09-17,Clothing,North,Mobile App,Female,38.0,42.45,2,25,63.68,3.0,11,0
+ORD-10242,2023-03-07,Sports,East,Website,Female,45.0,159.4,2,10,286.92,4.0,1,0
+ORD-10243,2023-10-04,Sports,Central,In-Store,Male,34.0,76.48,3,10,206.5,5.0,6,0
+ORD-10244,2023-04-11,Electronics,East,Mobile App,Male,67.0,468.88,5,5,2227.18,5.0,1,0
+ORD-10245,2023-06-11,Home & Kitchen,Central,Website,Other,34.0,174.2,1,5,165.49,4.0,3,1
+ORD-10246,2023-07-23,Clothing,Central,Mobile App,Female,71.0,96.18,3,5,274.11,5.0,5,0
+ORD-10247,2023-11-03,Home & Kitchen,South,In-Store,Female,29.0,188.49,1,0,188.49,4.0,12,0
+ORD-10248,2023-02-14,Books,Central,Website,Female,24.0,49.68,1,0,49.68,5.0,8,0
+ORD-10249,2023-11-19,Clothing,West,Website,Female,65.0,62.07,2,10,111.73,4.0,14,0
+ORD-10250,2023-12-15,Sports,North,In-Store,Male,21.0,172.33,1,5,163.71,4.0,3,1
+ORD-10251,2023-06-09,Electronics,West,Mobile App,Male,50.0,454.25,2,20,726.8,2.0,3,0
+ORD-10252,2023-05-01,Books,Central,Mobile App,Female,29.0,49.26,4,5,187.19,2.0,10,0
+ORD-10253,2023-01-25,Clothing,East,Website,Female,63.0,113.0,1,0,113.0,4.0,12,0
+ORD-10254,2023-10-09,Electronics,East,Website,Female,22.0,586.15,1,15,498.23,4.0,2,0
+ORD-10255,2023-10-17,Home & Kitchen,East,Mobile App,Female,45.0,109.06,2,10,196.31,4.0,6,1
+ORD-10256,2023-09-22,Books,North,In-Store,Female,23.0,49.7,3,15,126.74,5.0,4,0
+ORD-10257,2023-04-12,Sports,Central,Website,Female,25.0,60.26,3,0,180.78,1.0,7,0
+ORD-10258,2023-11-25,Books,South,Social Media,Male,20.0,27.57,2,10,49.63,5.0,1,0
+ORD-10259,2023-08-11,Clothing,South,Mobile App,Male,61.0,50.41,3,0,151.23,4.0,4,0
+ORD-10260,2023-06-29,Beauty,East,Mobile App,Female,25.0,47.56,1,15,40.43,4.0,14,0
+ORD-10261,2023-09-01,Electronics,West,In-Store,Female,51.0,684.83,2,10,1232.69,4.0,1,0
+ORD-10262,2023-10-31,Electronics,East,Website,Female,54.0,687.51,1,5,653.13,4.0,13,0
+ORD-10263,2023-10-28,Home & Kitchen,West,Social Media,Female,64.0,230.53,1,5,219.0,4.0,13,0
+ORD-10264,2023-06-17,Clothing,North,Mobile App,Male,39.0,55.84,5,10,251.28,5.0,10,0
+ORD-10265,2023-09-04,Clothing,South,Website,Male,31.0,93.13,1,5,88.47,1.0,4,0
+ORD-10266,2023-07-15,Sports,North,Social Media,Female,37.0,131.62,1,0,131.62,5.0,11,0
+ORD-10267,2023-11-07,Clothing,West,Mobile App,Male,64.0,137.31,2,5,260.89,4.0,12,0
+ORD-10268,2023-06-05,Sports,East,Social Media,Male,64.0,105.82,1,20,84.66,5.0,8,0
+ORD-10269,2023-09-18,Home & Kitchen,Central,Website,Female,50.0,187.27,2,0,374.54,3.0,1,0
+ORD-10270,2023-01-07,Clothing,Central,Website,Male,,76.16,2,15,129.47,4.0,10,0
+ORD-10271,2023-01-19,Electronics,South,Mobile App,Female,36.0,677.67,2,0,1355.34,4.0,12,0
+ORD-10272,2023-08-14,Electronics,Central,Social Media,Male,23.0,703.73,2,15,1196.34,4.0,13,0
+ORD-10273,2023-10-14,Beauty,North,Website,Female,71.0,95.02,3,20,228.05,5.0,1,0
+ORD-10274,2023-07-25,Clothing,Central,Mobile App,Female,20.0,136.17,4,5,517.45,1.0,8,0
+ORD-10275,2023-02-14,Electronics,East,In-Store,Male,23.0,255.51,1,0,255.51,5.0,1,0
+ORD-10276,2023-12-30,Clothing,Central,Mobile App,Male,40.0,115.28,1,5,109.52,4.0,11,0
+ORD-10277,2023-04-22,Sports,South,Mobile App,Male,27.0,106.36,1,5,101.04,3.0,5,0
+ORD-10278,2023-05-16,Electronics,North,Social Media,Female,29.0,724.31,2,15,1231.33,4.0,6,0
+ORD-10279,2023-08-02,Home & Kitchen,East,Mobile App,Female,50.0,152.71,1,10,137.44,5.0,12,0
+ORD-10280,2023-11-11,Electronics,Central,In-Store,Female,67.0,265.57,2,0,531.14,4.0,9,0
+ORD-10281,2023-10-12,Beauty,North,In-Store,Male,66.0,66.62,1,5,63.29,4.0,13,0
+ORD-10282,2023-11-11,Books,South,Social Media,Male,50.0,18.31,1,5,17.39,3.0,11,0
+ORD-10283,2023-11-09,Electronics,West,Website,Male,65.0,370.02,1,0,370.02,4.0,4,1
+ORD-10284,2023-11-21,Beauty,West,Mobile App,Female,34.0,97.96,3,5,279.19,3.0,5,0
+ORD-10285,2023-02-06,Clothing,South,Website,Female,23.0,141.82,4,15,482.19,5.0,12,0
+ORD-10286,2023-07-17,Home & Kitchen,South,Website,Female,45.0,207.71,1,5,197.32,4.0,1,0
+ORD-10287,2023-02-18,Books,West,In-Store,Female,59.0,33.95,3,5,96.76,5.0,14,0
+ORD-10288,2023-03-13,Electronics,East,Social Media,Female,38.0,213.3,4,15,725.22,2.0,6,0
+ORD-10289,2023-12-27,Electronics,East,Website,Male,21.0,394.88,3,0,1184.64,1.0,10,0
+ORD-10290,2023-10-07,Electronics,North,In-Store,Female,43.0,369.86,1,0,369.86,1.0,10,0
+ORD-10291,2023-09-20,Electronics,North,Mobile App,Male,26.0,521.56,2,0,1043.12,4.0,3,0
+ORD-10292,2023-04-02,Electronics,North,In-Store,Female,48.0,511.77,2,10,921.19,3.0,5,0
+ORD-10293,2023-01-28,Electronics,East,Mobile App,Male,71.0,600.46,1,5,570.44,4.0,13,0
+ORD-10294,2023-02-08,Beauty,East,Mobile App,Male,63.0,76.98,1,5,73.13,4.0,7,0
+ORD-10295,2023-09-14,Electronics,West,Website,Male,21.0,552.09,1,5,524.49,4.0,9,0
+ORD-10296,2023-09-03,Books,West,Mobile App,Female,29.0,41.03,2,0,82.06,5.0,14,0
+ORD-10297,2023-01-09,Electronics,East,Website,Female,23.0,276.53,1,15,235.05,5.0,14,0
+ORD-10298,2023-02-15,Electronics,Central,Social Media,Male,55.0,241.18,3,25,542.66,4.0,14,0
+ORD-10299,2023-10-11,Home & Kitchen,North,Website,Female,37.0,132.17,1,10,118.95,4.0,1,0
+ORD-10300,2023-01-19,Beauty,Central,Mobile App,Female,57.0,73.95,2,0,147.9,4.0,14,0
+ORD-10301,2023-03-12,Clothing,East,Mobile App,Male,29.0,42.87,2,0,85.74,4.0,4,0
+ORD-10302,2023-07-27,Electronics,East,Website,Male,38.0,584.97,3,10,1579.42,4.0,13,1
+ORD-10303,2023-05-31,Beauty,North,Social Media,Female,58.0,81.34,2,25,122.01,4.0,2,0
+ORD-10304,2023-06-17,Electronics,Central,In-Store,Female,37.0,675.56,2,0,1351.12,5.0,3,0
+ORD-10305,2023-03-13,Clothing,South,In-Store,Female,41.0,99.28,3,20,238.27,,5,1
+ORD-10306,2023-12-29,Books,Central,Website,Female,61.0,35.09,3,0,105.27,3.0,11,1
+ORD-10307,2023-03-08,Sports,West,Mobile App,Male,56.0,95.29,1,10,85.76,5.0,6,0
+ORD-10308,2023-06-20,Sports,Central,In-Store,Male,29.0,152.06,1,5,144.46,4.0,8,0
+ORD-10309,2023-11-26,Home & Kitchen,North,Website,Male,58.0,235.83,2,0,471.66,5.0,7,0
+ORD-10310,2023-12-18,Clothing,North,In-Store,Male,35.0,94.87,2,0,189.74,5.0,4,0
+ORD-10311,2023-11-20,Sports,South,In-Store,Female,19.0,149.98,2,5,284.96,,14,0
+ORD-10312,2023-03-25,Sports,West,Social Media,Female,41.0,107.21,2,10,192.98,3.0,1,0
+ORD-10313,2023-07-08,Sports,South,Mobile App,Male,51.0,151.17,2,5,287.22,5.0,7,0
+ORD-10314,2023-03-08,Home & Kitchen,East,Website,Female,29.0,226.13,3,10,610.55,5.0,5,0
+ORD-10315,2023-04-27,Electronics,East,Website,Male,65.0,714.08,2,10,1285.34,2.0,13,0
+ORD-10316,2023-07-24,Clothing,East,In-Store,Male,23.0,98.56,1,10,88.7,2.0,14,0
+ORD-10317,2023-11-25,Books,North,Website,Male,30.0,52.39,1,15,44.53,5.0,3,0
+ORD-10318,2023-03-29,Books,East,Mobile App,Female,65.0,51.75,3,10,139.72,3.0,14,0
+ORD-10319,2023-12-07,Sports,South,In-Store,Female,51.0,87.82,2,10,158.08,4.0,6,0
+ORD-10320,2023-04-16,Electronics,South,Mobile App,Male,59.0,313.74,1,0,313.74,3.0,12,0
+ORD-10321,2023-06-14,Home & Kitchen,West,In-Store,Male,49.0,208.05,1,0,208.05,2.0,12,0
+ORD-10322,2023-05-25,Clothing,North,Website,Female,46.0,80.78,1,20,64.62,2.0,1,0
+ORD-10323,2023-08-04,Home & Kitchen,North,Mobile App,Male,59.0,240.67,1,15,204.57,4.0,9,0
+ORD-10324,2023-06-25,Electronics,Central,Mobile App,Female,55.0,215.75,2,0,431.5,3.0,6,0
+ORD-10325,2023-09-15,Books,East,Social Media,Female,69.0,22.24,2,0,44.48,5.0,12,0
+ORD-10326,2023-01-01,Electronics,Central,Mobile App,Male,22.0,290.04,2,0,580.08,5.0,3,0
+ORD-10327,2023-11-02,Electronics,North,Website,Female,50.0,249.36,2,5,473.78,5.0,12,0
+ORD-10328,2023-07-11,Beauty,South,Website,Male,41.0,28.93,2,10,52.07,4.0,2,0
+ORD-10329,2023-07-08,Clothing,South,Mobile App,Male,31.0,39.26,4,10,141.34,5.0,3,0
+ORD-10330,2023-09-20,Sports,West,Website,Male,43.0,59.11,2,10,106.4,4.0,5,0
+ORD-10331,2023-06-14,Books,North,Social Media,Female,35.0,16.19,1,5,15.38,3.0,4,0
+ORD-10332,2023-03-19,Electronics,South,In-Store,Female,39.0,443.35,2,5,842.36,4.0,4,1
+ORD-10333,2023-09-13,Sports,West,Website,Male,61.0,112.45,2,0,224.9,1.0,2,0
+ORD-10334,2023-04-17,Electronics,East,Mobile App,Male,28.0,376.53,1,0,376.53,4.0,3,0
+ORD-10335,2023-03-26,Sports,Central,Social Media,Male,34.0,111.82,1,15,95.05,2.0,4,0
+ORD-10336,2023-10-08,Electronics,East,Mobile App,Other,70.0,261.99,1,0,261.99,2.0,10,0
+ORD-10337,2023-11-23,Home & Kitchen,Central,Mobile App,Male,53.0,260.0,3,0,780.0,4.0,4,0
+ORD-10338,2023-06-22,Electronics,South,In-Store,Male,24.0,358.59,1,20,286.87,3.0,10,0
+ORD-10339,2023-12-27,Clothing,West,In-Store,Male,35.0,118.87,1,10,106.98,5.0,4,0
+ORD-10340,2023-09-04,Beauty,East,In-Store,Female,65.0,48.57,1,25,36.43,4.0,12,0
+ORD-10341,2023-07-13,Books,East,Website,Female,19.0,54.25,1,5,51.54,3.0,2,0
+ORD-10342,2023-09-12,Home & Kitchen,South,Website,Female,68.0,113.17,1,10,101.85,4.0,13,0
+ORD-10343,2023-06-13,Home & Kitchen,West,Website,Female,36.0,77.6,1,5,73.72,5.0,13,0
+ORD-10344,2023-05-31,Electronics,Central,Mobile App,Male,48.0,395.15,5,0,1975.75,5.0,6,0
+ORD-10345,2023-03-01,Sports,West,In-Store,Female,18.0,55.29,1,5,52.53,2.0,4,1
+ORD-10346,2023-07-07,Beauty,North,Website,Female,,98.92,3,10,267.08,4.0,9,0
+ORD-10347,2023-03-01,Electronics,East,In-Store,Male,55.0,762.13,2,0,1524.26,4.0,1,1
+ORD-10348,2023-12-03,Books,South,Website,Male,66.0,25.08,1,10,22.57,4.0,11,0
+ORD-10349,2023-04-28,Clothing,South,Website,Male,40.0,44.57,1,0,44.57,4.0,3,0
+ORD-10350,2023-04-12,Home & Kitchen,South,Mobile App,Female,58.0,228.26,4,0,913.04,5.0,9,0
+ORD-10351,2023-09-18,Electronics,North,Social Media,Female,43.0,731.16,1,10,658.04,4.0,6,0
+ORD-10352,2023-08-29,Books,West,Social Media,Female,50.0,52.9,1,0,52.9,1.0,6,0
+ORD-10353,2023-06-26,Sports,East,Website,Male,20.0,159.25,1,0,159.25,3.0,6,0
+ORD-10354,2023-06-05,Home & Kitchen,East,Website,Female,57.0,169.87,1,0,169.87,5.0,12,0
+ORD-10355,2023-07-27,Electronics,North,Mobile App,Male,33.0,308.85,2,10,555.93,3.0,3,1
+ORD-10356,2023-07-17,Sports,North,Website,Male,30.0,104.91,1,0,104.91,5.0,14,0
+ORD-10357,2023-02-10,Electronics,South,Social Media,Female,65.0,300.69,2,0,601.38,4.0,7,0
+ORD-10358,2023-04-15,Sports,West,Mobile App,Male,64.0,140.91,1,0,140.91,5.0,1,0
+ORD-10359,2023-01-22,Books,North,Website,Other,59.0,41.07,1,5,39.02,3.0,7,0
+ORD-10360,2023-04-29,Electronics,West,Mobile App,Female,26.0,465.83,2,5,885.08,4.0,14,0
+ORD-10361,2023-03-11,Home & Kitchen,East,In-Store,Male,30.0,223.66,3,0,670.98,4.0,4,1
+ORD-10362,2023-03-11,Sports,East,Social Media,Female,18.0,134.37,2,10,241.87,4.0,3,0
+ORD-10363,2023-08-27,Home & Kitchen,East,Social Media,Female,19.0,104.18,1,5,98.97,3.0,6,1
+ORD-10364,2023-07-05,Beauty,Central,Mobile App,Male,71.0,55.25,1,0,55.25,5.0,1,0
+ORD-10365,2023-01-21,Clothing,South,In-Store,Male,64.0,111.34,1,20,89.07,4.0,10,1
+ORD-10366,2023-02-14,Electronics,North,Social Media,Female,40.0,473.94,1,0,473.94,4.0,13,0
+ORD-10367,2023-06-04,Electronics,South,Mobile App,Female,24.0,663.91,2,10,1195.04,4.0,9,0
+ORD-10368,2023-03-22,Books,North,In-Store,Female,64.0,53.72,1,0,53.72,5.0,5,0
+ORD-10369,2023-09-01,Clothing,Central,Mobile App,Female,51.0,140.79,3,10,380.13,5.0,5,0
+ORD-10370,2023-11-21,Clothing,Central,Mobile App,Female,42.0,91.27,4,20,292.06,3.0,7,1
+ORD-10371,2023-11-18,Clothing,Central,Website,Female,,81.83,1,0,81.83,4.0,10,0
+ORD-10372,2023-08-06,Clothing,West,Website,Male,71.0,97.71,5,20,390.84,4.0,12,1
+ORD-10373,2023-06-08,Electronics,Central,Website,Other,50.0,583.53,1,5,554.35,4.0,11,0
+ORD-10374,2023-02-10,Books,North,Mobile App,Female,18.0,54.33,1,10,48.9,4.0,1,0
+ORD-10375,2023-01-02,Clothing,Central,Mobile App,Female,45.0,105.94,4,0,423.76,5.0,10,0
+ORD-10376,2023-09-16,Clothing,West,In-Store,Female,26.0,121.27,1,15,103.08,4.0,14,0
+ORD-10377,2023-05-09,Beauty,West,In-Store,Female,57.0,97.01,3,15,247.38,5.0,3,0
+ORD-10378,2023-02-27,Electronics,Central,In-Store,Male,24.0,561.53,2,15,954.6,4.0,8,0
+ORD-10379,2023-01-02,Home & Kitchen,South,Mobile App,Female,63.0,232.28,2,5,441.33,5.0,8,0
+ORD-10380,2023-06-13,Home & Kitchen,South,Mobile App,Male,32.0,158.26,3,20,379.82,3.0,7,1
+ORD-10381,2023-02-01,Clothing,Central,Mobile App,Male,61.0,87.24,2,0,174.48,2.0,9,0
+ORD-10382,2023-08-19,Books,North,In-Store,Female,71.0,30.09,2,15,51.15,4.0,4,0
+ORD-10383,2023-10-10,Beauty,East,In-Store,Female,70.0,38.22,1,15,32.49,4.0,8,0
+ORD-10384,2023-03-11,Clothing,Central,Website,Male,63.0,64.04,1,10,57.64,5.0,11,0
+ORD-10385,2023-09-03,Home & Kitchen,South,Social Media,Male,29.0,257.02,1,0,257.02,5.0,7,0
+ORD-10386,2023-05-06,Sports,East,Website,Male,60.0,85.49,4,10,307.76,4.0,8,0
+ORD-10387,2023-10-15,Clothing,South,Website,Male,32.0,64.06,1,5,60.86,5.0,13,0
+ORD-10388,2023-12-05,Beauty,South,In-Store,Male,71.0,78.8,1,20,63.04,4.0,7,0
+ORD-10389,2023-11-04,Home & Kitchen,Central,Website,Female,47.0,190.59,4,25,571.77,5.0,12,0
+ORD-10390,2023-06-18,Books,North,In-Store,Male,50.0,31.06,1,0,31.06,2.0,5,0
+ORD-10391,2023-01-22,Home & Kitchen,South,Mobile App,Female,45.0,137.91,2,10,248.24,5.0,1,0
+ORD-10392,2023-01-24,Clothing,North,Mobile App,Female,34.0,56.53,1,15,48.05,5.0,14,0
+ORD-10393,2023-05-05,Home & Kitchen,East,Social Media,Male,65.0,87.08,1,10,78.37,5.0,13,1
+ORD-10394,2023-05-31,Clothing,West,In-Store,Male,31.0,44.5,3,0,133.5,4.0,2,0
+ORD-10395,2023-07-05,Beauty,East,Website,Male,34.0,47.85,1,15,40.67,5.0,14,0
+ORD-10396,2023-10-22,Books,South,Social Media,Male,56.0,35.44,3,0,106.32,5.0,5,0
+ORD-10397,2023-11-08,Electronics,South,Website,Other,40.0,485.05,3,20,1164.12,4.0,4,0
+ORD-10398,2023-04-07,Clothing,North,In-Store,Male,30.0,111.25,1,10,100.12,5.0,5,0
+ORD-10399,2023-10-01,Sports,Central,Social Media,Male,60.0,160.45,1,0,160.45,2.0,11,0
+ORD-10400,2023-08-07,Sports,East,In-Store,Female,44.0,115.85,1,10,104.26,4.0,3,0
+ORD-10401,2023-08-02,Books,North,Mobile App,Male,56.0,27.35,1,10,24.62,4.0,13,0
+ORD-10402,2023-05-31,Clothing,East,Social Media,Male,49.0,138.3,1,10,124.47,4.0,9,0
+ORD-10403,2023-08-02,Clothing,South,In-Store,Female,32.0,57.38,2,10,103.28,4.0,8,0
+ORD-10404,2023-01-19,Beauty,South,Website,Male,22.0,72.64,1,0,72.64,2.0,6,0
+ORD-10405,2023-03-05,Electronics,West,Social Media,Male,25.0,320.11,1,5,304.1,4.0,9,0
+ORD-10406,2023-02-09,Sports,North,Mobile App,Male,43.0,121.86,1,10,109.67,5.0,6,0
+ORD-10407,2023-02-20,Sports,Central,Website,Female,63.0,173.74,1,0,173.74,4.0,10,0
+ORD-10408,2023-07-19,Electronics,West,Mobile App,Female,58.0,283.3,3,0,849.9,5.0,8,0
+ORD-10409,2023-12-05,Clothing,West,Website,Female,56.0,130.47,1,15,110.9,5.0,8,0
+ORD-10410,2023-06-19,Books,West,Mobile App,Male,60.0,21.02,4,10,75.67,5.0,12,0
+ORD-10411,2023-03-11,Sports,Central,Mobile App,Male,20.0,145.87,4,5,554.31,5.0,9,0
+ORD-10412,2023-06-21,Beauty,Central,Website,Female,62.0,54.65,2,0,109.3,2.0,13,0
+ORD-10413,2023-03-07,Beauty,Central,Mobile App,Female,22.0,63.63,1,5,60.45,4.0,4,1
+ORD-10414,2023-08-06,Clothing,West,Website,Male,48.0,80.31,2,15,136.53,4.0,10,0
+ORD-10415,2023-02-27,Electronics,North,Social Media,Male,64.0,725.39,1,5,689.12,4.0,1,0
+ORD-10416,2023-05-22,Books,West,Website,Male,44.0,35.17,1,20,28.14,2.0,14,0
+ORD-10417,2023-09-03,Books,Central,Mobile App,Female,66.0,38.92,1,0,38.92,4.0,3,0
+ORD-10418,2023-02-17,Home & Kitchen,South,Mobile App,Male,50.0,175.28,1,0,175.28,4.0,13,0
+ORD-10419,2023-12-13,Electronics,East,Mobile App,Male,28.0,457.63,1,5,434.75,4.0,12,0
+ORD-10420,2023-05-08,Home & Kitchen,South,Mobile App,Male,42.0,116.78,1,20,93.42,4.0,9,0
+ORD-10421,2023-06-12,Beauty,South,Website,Male,33.0,50.56,1,25,37.92,3.0,8,0
+ORD-10422,2023-01-25,Beauty,West,Website,Female,29.0,86.65,3,5,246.95,2.0,8,0
+ORD-10423,2023-01-25,Beauty,North,Website,Male,29.0,62.25,2,0,124.5,2.0,4,0
+ORD-10424,2023-03-17,Beauty,South,In-Store,Male,21.0,60.43,4,5,229.63,5.0,12,0
+ORD-10425,2023-04-30,Beauty,East,Website,Female,20.0,76.05,1,0,76.05,3.0,12,0
+ORD-10426,2023-05-07,Electronics,South,Mobile App,Female,55.0,733.63,2,25,1100.44,4.0,1,1
+ORD-10427,2023-05-30,Beauty,East,Website,Female,52.0,44.01,1,25,33.01,4.0,13,0
+ORD-10428,2023-04-27,Clothing,East,Website,Female,27.0,127.55,2,10,229.59,3.0,14,0
+ORD-10429,2023-12-29,Clothing,East,Mobile App,Female,50.0,126.1,5,15,535.92,5.0,3,0
+ORD-10430,2023-12-17,Clothing,Central,Social Media,Male,39.0,64.14,1,15,54.52,5.0,5,0
+ORD-10431,2023-05-24,Beauty,West,Mobile App,Female,68.0,39.0,4,15,132.6,4.0,9,0
+ORD-10432,2023-06-01,Home & Kitchen,Central,Website,Male,30.0,255.93,1,20,204.74,5.0,6,0
+ORD-10433,2023-09-25,Clothing,South,Mobile App,Male,70.0,67.66,3,10,182.68,4.0,4,0
+ORD-10434,2023-04-28,Clothing,South,Mobile App,Other,57.0,,1,10,40.93,4.0,13,0
+ORD-10435,2023-05-29,Beauty,South,Website,Male,19.0,37.23,2,5,70.74,4.0,2,0
+ORD-10436,2023-12-07,Sports,East,Mobile App,Male,48.0,87.82,1,10,79.04,4.0,4,0
+ORD-10437,2023-10-19,Electronics,East,Social Media,Male,18.0,232.49,3,20,557.98,5.0,11,0
+ORD-10438,2023-07-28,Electronics,North,Website,Female,45.0,418.1,1,0,418.1,5.0,12,0
+ORD-10439,2023-10-01,Clothing,West,Website,Male,42.0,98.38,3,25,221.36,3.0,4,0
+ORD-10440,2023-08-04,Electronics,East,In-Store,Female,19.0,647.68,2,0,1295.36,2.0,4,0
+ORD-10441,2023-06-17,Books,East,Website,Female,34.0,,3,10,133.14,4.0,14,0
+ORD-10442,2023-04-13,Electronics,South,Website,Male,28.0,695.75,1,15,591.39,3.0,8,0
+ORD-10443,2023-10-22,Books,East,Website,Male,40.0,52.31,2,25,78.46,1.0,13,0
+ORD-10444,2023-03-09,Beauty,East,Social Media,Female,29.0,57.21,2,0,114.42,1.0,2,0
+ORD-10445,2023-08-03,Sports,North,Social Media,Male,67.0,148.82,1,5,141.38,4.0,8,0
+ORD-10446,2023-12-25,Electronics,North,Social Media,Male,29.0,562.53,2,0,1125.06,1.0,5,0
+ORD-10447,2023-03-18,Electronics,North,Website,Female,40.0,230.36,3,0,691.08,5.0,3,0
+ORD-10448,2023-01-29,Clothing,South,Social Media,Female,27.0,59.2,2,15,100.64,4.0,4,0
+ORD-10449,2023-11-28,Home & Kitchen,East,Website,Male,31.0,112.31,1,5,106.69,4.0,8,0
+ORD-10450,2023-11-05,Clothing,West,Mobile App,Male,53.0,61.72,3,10,166.64,5.0,2,0
+ORD-10451,2023-12-25,Clothing,West,Mobile App,Male,68.0,61.6,1,0,61.6,5.0,13,0
+ORD-10452,2023-08-06,Clothing,South,Mobile App,Male,51.0,72.51,1,0,72.51,5.0,14,0
+ORD-10453,2023-10-10,Electronics,North,Social Media,Female,62.0,322.52,1,20,258.02,3.0,5,0
+ORD-10454,2023-05-11,Sports,East,In-Store,Female,69.0,79.34,3,15,202.32,4.0,2,1
+ORD-10455,2023-09-16,Home & Kitchen,Central,Mobile App,Female,49.0,116.03,1,20,92.82,4.0,10,0
+ORD-10456,2023-05-01,Clothing,North,In-Store,Male,53.0,106.06,1,15,90.15,4.0,3,0
+ORD-10457,2023-02-12,Home & Kitchen,East,In-Store,Female,34.0,128.13,2,5,243.45,5.0,6,0
+ORD-10458,2023-02-06,Books,North,Website,Male,32.0,19.93,1,20,15.94,5.0,5,0
+ORD-10459,2023-03-31,Books,North,Website,Male,20.0,51.4,1,5,48.83,4.0,13,0
+ORD-10460,2023-08-03,Clothing,Central,Website,Male,51.0,80.63,1,0,80.63,4.0,8,1
+ORD-10461,2023-08-12,Books,East,Social Media,Female,21.0,54.12,1,0,54.12,5.0,3,0
+ORD-10462,2023-01-05,Beauty,Central,Social Media,Female,30.0,74.98,1,10,67.48,4.0,14,0
+ORD-10463,2023-08-28,Sports,West,Website,Male,68.0,74.85,3,10,202.1,1.0,11,0
+ORD-10464,2023-10-14,Sports,East,Social Media,Female,43.0,64.49,1,5,61.27,4.0,10,0
+ORD-10465,2023-10-04,Electronics,North,Website,Male,44.0,689.47,2,5,1309.99,4.0,1,0
+ORD-10466,2023-11-02,Books,Central,Website,Male,50.0,26.64,4,0,106.56,5.0,3,0
+ORD-10467,2023-10-07,Clothing,West,Website,Female,65.0,44.89,1,0,44.89,3.0,1,0
+ORD-10468,2023-11-10,Electronics,North,Mobile App,Female,19.0,582.6,2,20,932.16,3.0,2,0
+ORD-10469,2023-05-29,Clothing,South,Social Media,Female,58.0,40.95,3,10,110.57,2.0,2,0
+ORD-10470,2023-10-06,Electronics,East,In-Store,Male,65.0,251.82,1,20,201.46,3.0,6,0
+ORD-10471,2023-02-21,Electronics,South,Website,Male,59.0,634.19,1,5,602.48,5.0,7,1
+ORD-10472,2023-09-18,Sports,West,Website,Male,24.0,84.61,5,0,423.05,5.0,6,0
+ORD-10473,2023-09-01,Home & Kitchen,West,In-Store,Female,25.0,217.46,2,10,391.43,4.0,13,0
+ORD-10474,2023-12-21,Home & Kitchen,North,Website,Female,62.0,184.81,1,15,157.09,5.0,1,0
+ORD-10475,2023-11-06,Electronics,West,In-Store,Male,49.0,246.18,1,0,246.18,4.0,12,0
+ORD-10476,2023-01-26,Electronics,South,Mobile App,Female,24.0,728.73,1,15,619.42,5.0,8,0
+ORD-10477,2023-11-14,Electronics,North,In-Store,Female,54.0,393.57,4,10,1416.85,5.0,7,0
+ORD-10478,2023-07-30,Electronics,North,In-Store,Female,19.0,608.81,1,0,608.81,4.0,5,1
+ORD-10479,2023-04-18,Electronics,Central,Mobile App,Female,39.0,568.72,3,20,1364.93,4.0,11,0
+ORD-10480,2023-06-24,Beauty,North,Website,Female,22.0,54.75,2,5,104.02,5.0,11,0
+ORD-10481,2023-01-26,Sports,Central,In-Store,Male,44.0,,5,0,799.3,4.0,6,1
+ORD-10482,2023-07-25,Electronics,Central,Mobile App,Female,44.0,246.29,2,15,418.69,1.0,3,0
+ORD-10483,2023-10-03,Clothing,North,In-Store,Female,65.0,70.33,1,20,56.26,3.0,4,1
+ORD-10484,2023-10-24,Beauty,South,Website,Female,61.0,93.35,1,5,88.68,3.0,8,0
+ORD-10485,2023-02-08,Books,East,Website,Male,26.0,22.97,5,15,97.62,5.0,9,0
+ORD-10486,2023-02-05,Clothing,East,Mobile App,Female,56.0,83.54,1,5,79.36,4.0,3,0
+ORD-10487,2023-04-19,Clothing,South,In-Store,Female,59.0,127.15,2,20,203.44,5.0,6,0
+ORD-10488,2023-10-30,Clothing,East,Mobile App,Male,55.0,65.65,3,5,187.1,5.0,1,0
+ORD-10489,2023-02-01,Books,West,In-Store,Female,69.0,27.0,5,5,128.25,4.0,5,0
+ORD-10490,2023-10-28,Home & Kitchen,East,Website,Male,64.0,115.37,1,0,115.37,3.0,4,0
+ORD-10491,2023-04-29,Books,West,Website,Male,39.0,44.26,1,15,37.62,3.0,8,0
+ORD-10492,2023-11-17,Sports,West,In-Store,Male,46.0,114.5,1,15,97.32,5.0,2,0
+ORD-10493,2023-02-06,Electronics,West,Social Media,Male,33.0,448.91,1,5,426.46,4.0,3,0
+ORD-10494,2023-05-31,Home & Kitchen,North,Website,Female,67.0,242.12,1,20,193.7,5.0,13,0
+ORD-10495,2023-05-16,Beauty,East,Website,Male,23.0,75.02,2,0,150.04,4.0,5,0
+ORD-10496,2023-10-17,Electronics,West,Website,Other,18.0,281.22,2,5,534.32,4.0,4,0
+ORD-10497,2023-09-19,Books,Central,Mobile App,Male,65.0,53.77,1,20,43.02,1.0,7,0
+ORD-10498,2023-09-05,Home & Kitchen,East,Mobile App,Male,46.0,200.4,2,0,400.8,3.0,9,0
+ORD-10499,2023-08-30,Clothing,West,Mobile App,Male,53.0,124.93,1,10,112.44,5.0,13,0
+ORD-10500,2023-04-18,Beauty,South,In-Store,Female,21.0,67.68,1,10,60.91,4.0,4,0
+ORD-10501,2023-06-19,Books,West,Website,Female,34.0,54.06,1,5,51.36,4.0,3,0
+ORD-10502,2023-02-27,Books,South,Social Media,Male,37.0,29.75,1,0,29.75,3.0,6,0
+ORD-10503,2023-07-17,Beauty,North,In-Store,Female,50.0,59.49,3,20,142.78,4.0,13,0
+ORD-10504,2023-08-08,Electronics,South,Social Media,Male,19.0,509.45,2,10,917.01,5.0,12,0
+ORD-10505,2023-11-16,Sports,East,In-Store,Male,49.0,88.82,1,15,75.5,1.0,4,0
+ORD-10506,2023-03-14,Electronics,North,In-Store,Male,56.0,500.58,1,5,475.55,2.0,10,0
+ORD-10507,2023-05-18,Clothing,North,Website,Male,28.0,135.17,4,0,540.68,4.0,2,0
+ORD-10508,2023-01-25,Books,East,In-Store,Female,28.0,45.06,2,0,90.12,4.0,9,0
+ORD-10509,2023-12-10,Books,East,Mobile App,Female,34.0,23.07,1,0,23.07,3.0,6,0
+ORD-10510,2023-07-22,Electronics,West,Website,Male,27.0,645.88,1,0,645.88,4.0,13,0
+ORD-10511,2023-04-15,Clothing,West,In-Store,Female,37.0,47.81,1,10,43.03,5.0,7,0
+ORD-10512,2023-10-29,Clothing,Central,Mobile App,Male,42.0,56.71,1,5,53.87,5.0,8,0
+ORD-10513,2023-06-16,Beauty,South,Social Media,Male,42.0,55.72,2,10,100.3,5.0,14,0
+ORD-10514,2023-03-07,Beauty,Central,In-Store,Male,40.0,72.79,1,0,72.79,3.0,1,0
+ORD-10515,2023-12-25,Books,South,Social Media,Female,68.0,21.04,4,5,79.95,4.0,7,0
+ORD-10516,2023-02-14,Beauty,North,Social Media,Female,34.0,69.23,1,0,69.23,4.0,1,0
+ORD-10517,2023-06-17,Sports,North,Mobile App,Female,43.0,122.22,4,20,391.1,5.0,12,0
+ORD-10518,2023-10-21,Clothing,West,Social Media,Male,22.0,136.76,1,10,123.08,5.0,6,0
+ORD-10519,2023-03-26,Electronics,West,Mobile App,Female,69.0,396.28,2,5,752.93,3.0,6,1
+ORD-10520,2023-12-10,Home & Kitchen,South,Mobile App,Female,43.0,253.72,3,10,685.04,3.0,9,0
+ORD-10521,2023-01-17,Clothing,East,Social Media,Female,36.0,68.54,3,15,174.78,3.0,4,0
+ORD-10522,2023-04-30,Electronics,Central,In-Store,Female,28.0,686.88,1,15,583.85,1.0,8,1
+ORD-10523,2023-11-28,Beauty,West,In-Store,Male,30.0,74.73,4,15,254.08,4.0,1,0
+ORD-10524,2023-06-16,Beauty,Central,Social Media,Male,53.0,73.0,1,5,69.35,4.0,1,0
+ORD-10525,2023-01-02,Books,Central,Mobile App,Male,46.0,31.48,2,10,56.66,4.0,5,0
+ORD-10526,2023-06-16,Home & Kitchen,West,Website,Male,28.0,92.74,4,10,333.86,3.0,6,0
+ORD-10527,2023-11-30,Home & Kitchen,Central,In-Store,Female,54.0,159.17,2,5,302.42,2.0,4,0
+ORD-10528,2023-06-07,Beauty,East,Mobile App,Female,42.0,60.29,1,10,54.26,4.0,6,1
+ORD-10529,2023-09-04,Clothing,North,In-Store,Male,68.0,101.38,1,5,96.31,4.0,12,0
+ORD-10530,2023-09-23,Books,North,Social Media,Male,63.0,17.43,4,10,62.75,5.0,1,0
+ORD-10531,2023-12-29,Electronics,North,In-Store,Female,32.0,482.2,1,20,385.76,5.0,12,0
+ORD-10532,2023-11-15,Electronics,North,Social Media,Female,26.0,706.84,2,20,1130.94,4.0,11,0
+ORD-10533,2023-08-26,Books,East,In-Store,Male,19.0,49.45,1,10,44.5,4.0,12,1
+ORD-10534,2023-06-12,Electronics,West,Social Media,Male,52.0,459.73,1,10,413.76,5.0,3,0
+ORD-10535,2023-07-08,Electronics,Central,Mobile App,Female,25.0,503.58,1,5,478.4,5.0,3,0
+ORD-10536,2023-11-08,Clothing,East,Website,Female,58.0,131.21,4,15,446.11,5.0,6,0
+ORD-10537,2023-10-17,Home & Kitchen,East,Mobile App,Female,43.0,263.42,1,25,197.56,4.0,11,0
+ORD-10538,2023-11-12,Clothing,West,Social Media,Male,45.0,64.54,1,0,64.54,1.0,10,1
+ORD-10539,2023-06-29,Sports,West,Social Media,Male,55.0,119.27,1,5,113.31,1.0,9,1
+ORD-10540,2023-12-11,Home & Kitchen,North,In-Store,Male,39.0,181.62,1,25,136.22,4.0,4,0
+ORD-10541,2023-09-08,Home & Kitchen,East,Mobile App,Male,47.0,178.13,3,0,534.39,5.0,8,0
+ORD-10542,2023-06-06,Sports,West,Website,Male,43.0,81.98,2,10,147.56,4.0,14,0
+ORD-10543,2023-10-28,Electronics,North,Website,Female,55.0,640.39,1,15,544.33,1.0,11,1
+ORD-10544,2023-08-07,Electronics,South,Mobile App,Female,44.0,541.42,2,15,920.41,5.0,4,0
+ORD-10545,2023-08-22,Beauty,North,Mobile App,Male,23.0,66.53,3,10,179.63,2.0,4,0
+ORD-10546,2023-12-30,Beauty,Central,Social Media,Male,71.0,35.61,1,0,35.61,,14,0
+ORD-10547,2023-11-18,Electronics,North,Mobile App,Female,31.0,649.81,2,0,1299.62,1.0,2,0
+ORD-10548,2023-04-29,Home & Kitchen,Central,Mobile App,Male,50.0,144.18,1,5,136.97,1.0,1,1
+ORD-10549,2023-05-21,Electronics,Central,Mobile App,Female,25.0,,1,10,511.5,4.0,7,0
+ORD-10550,2023-05-19,Electronics,East,Website,Female,40.0,452.09,4,0,1808.36,3.0,7,0
+ORD-10551,2023-03-01,Electronics,Central,Website,Male,43.0,218.05,4,0,872.2,4.0,13,0
+ORD-10552,2023-03-17,Clothing,South,In-Store,Male,37.0,128.53,5,0,642.65,5.0,10,0
+ORD-10553,2023-12-23,Clothing,West,In-Store,Female,47.0,95.63,1,10,86.07,5.0,6,0
+ORD-10554,2023-04-15,Beauty,West,Social Media,Female,51.0,36.61,3,15,93.36,4.0,10,0
+ORD-10555,2023-09-01,Clothing,South,Mobile App,Male,21.0,86.3,3,10,233.01,3.0,10,0
+ORD-10556,2023-05-08,Electronics,South,In-Store,Male,23.0,321.19,4,0,1284.76,1.0,1,0
+ORD-10557,2023-01-01,Clothing,North,In-Store,Female,40.0,133.06,2,20,212.9,5.0,7,0
+ORD-10558,2023-03-22,Electronics,South,In-Store,Male,41.0,473.61,4,0,1894.44,4.0,13,0
+ORD-10559,2023-11-30,Electronics,Central,Website,Male,31.0,318.95,4,0,1275.8,5.0,11,0
+ORD-10560,2023-03-13,Clothing,South,Social Media,Female,35.0,125.75,1,20,100.6,5.0,6,0
+ORD-10561,2023-05-02,Books,East,In-Store,Female,51.0,41.54,1,20,33.23,5.0,10,0
+ORD-10562,2023-07-09,Electronics,South,In-Store,Female,51.0,345.94,1,5,328.64,4.0,5,0
+ORD-10563,2023-04-14,Clothing,West,Website,Female,36.0,103.37,3,5,294.6,4.0,3,0
+ORD-10564,2023-01-03,Electronics,South,Social Media,Male,48.0,317.42,2,5,603.1,5.0,12,0
+ORD-10565,2023-03-03,Home & Kitchen,North,In-Store,Female,45.0,220.86,2,0,441.72,4.0,2,0
+ORD-10566,2023-07-27,Clothing,South,Website,Male,18.0,83.83,1,0,83.83,5.0,14,0
+ORD-10567,2023-08-29,Electronics,Central,Mobile App,Female,45.0,663.74,1,0,663.74,4.0,10,0
+ORD-10568,2023-09-06,Books,Central,Website,Male,31.0,18.65,2,10,33.57,2.0,7,1
+ORD-10569,2023-04-26,Electronics,Central,Website,Female,70.0,376.97,2,0,753.94,3.0,8,0
+ORD-10570,2023-09-08,Clothing,South,In-Store,Female,21.0,87.08,4,0,348.32,4.0,12,0
+ORD-10571,2023-08-27,Electronics,South,In-Store,Male,50.0,707.09,1,10,636.38,4.0,3,0
+ORD-10572,2023-02-06,Sports,East,Mobile App,Female,71.0,60.91,2,5,115.73,5.0,1,0
+ORD-10573,2023-11-01,Clothing,West,Website,Female,20.0,142.82,2,10,257.08,5.0,9,0
+ORD-10574,2023-09-22,Beauty,North,Website,Male,60.0,28.97,2,15,49.25,5.0,6,0
+ORD-10575,2023-03-06,Clothing,North,Website,Female,21.0,59.26,2,10,106.67,4.0,12,0
+ORD-10576,2023-07-07,Electronics,South,Website,Female,57.0,501.46,2,0,1002.92,5.0,5,0
+ORD-10577,2023-12-02,Home & Kitchen,East,Website,Male,60.0,177.19,2,15,301.22,5.0,6,0
+ORD-10578,2023-12-31,Home & Kitchen,East,In-Store,Male,26.0,166.81,1,0,166.81,5.0,1,0
+ORD-10579,2023-05-31,Sports,East,In-Store,Female,59.0,66.17,3,15,168.73,5.0,8,0
+ORD-10580,2023-06-21,Electronics,South,Mobile App,Female,34.0,598.82,1,5,568.88,4.0,8,0
+ORD-10581,2023-03-21,Sports,North,In-Store,Male,64.0,144.55,3,5,411.97,5.0,11,1
+ORD-10582,2023-06-27,Sports,East,Website,Female,40.0,134.17,1,5,127.46,5.0,9,0
+ORD-10583,2023-01-17,Clothing,East,Social Media,Male,19.0,133.62,1,0,133.62,5.0,10,0
+ORD-10584,2023-03-22,Clothing,South,Mobile App,Female,51.0,79.27,1,20,63.42,5.0,6,0
+ORD-10585,2023-04-20,Home & Kitchen,North,Website,Male,49.0,145.74,1,20,116.59,2.0,6,0
+ORD-10586,2023-05-16,Electronics,West,Mobile App,Male,25.0,362.56,1,5,344.43,5.0,5,1
+ORD-10587,2023-09-26,Sports,West,Mobile App,Male,59.0,151.51,2,10,272.72,3.0,6,0
+ORD-10588,2023-04-17,Home & Kitchen,Central,Social Media,Male,32.0,94.35,2,10,169.83,3.0,13,0
+ORD-10589,2023-05-24,Sports,North,In-Store,Male,60.0,166.82,1,5,158.48,3.0,10,0
+ORD-10590,2023-08-15,Clothing,East,Website,Male,38.0,137.54,5,10,618.93,4.0,8,1
+ORD-10591,2023-12-22,Books,South,Mobile App,Male,60.0,36.1,1,5,34.3,4.0,12,1
+ORD-10592,2023-06-30,Electronics,Central,Website,Female,47.0,455.51,2,0,911.02,5.0,8,0
+ORD-10593,2023-12-26,Clothing,West,Mobile App,Male,47.0,84.6,1,10,76.14,5.0,1,1
+ORD-10594,2023-07-23,Home & Kitchen,North,In-Store,Male,28.0,229.52,1,15,195.09,5.0,1,0
+ORD-10595,2023-12-30,Beauty,South,Website,Male,63.0,96.4,2,10,173.52,2.0,10,0
+ORD-10596,2023-03-26,Electronics,East,Mobile App,Male,63.0,319.03,2,5,606.16,3.0,7,0
+ORD-10597,2023-01-15,Electronics,South,Mobile App,Male,58.0,657.52,1,0,657.52,5.0,2,0
+ORD-10598,2023-12-01,Electronics,East,Website,Male,19.0,677.55,1,0,677.55,4.0,14,0
+ORD-10599,2023-05-09,Clothing,Central,Social Media,Male,49.0,81.07,3,20,194.57,3.0,9,0
+ORD-10600,2023-05-11,Sports,West,In-Store,Female,36.0,101.52,2,5,192.89,5.0,14,0
+ORD-10601,2023-10-29,Electronics,East,Website,Male,51.0,218.3,1,10,196.47,4.0,7,0
+ORD-10602,2023-12-13,Books,Central,Website,Female,61.0,25.78,5,0,128.9,2.0,13,1
+ORD-10603,2023-12-23,Books,South,Mobile App,Male,25.0,36.64,1,0,36.64,2.0,10,0
+ORD-10604,2023-04-29,Sports,West,In-Store,Female,52.0,118.65,1,15,100.85,5.0,9,0
+ORD-10605,2023-03-25,Electronics,North,Social Media,Male,21.0,610.95,1,20,488.76,2.0,12,0
+ORD-10606,2023-02-25,Electronics,East,Mobile App,Female,32.0,660.0,3,10,1782.0,4.0,14,0
+ORD-10607,2023-10-12,Books,North,Website,Female,61.0,29.38,3,10,79.33,4.0,2,0
+ORD-10608,2023-06-20,Clothing,South,Website,Male,53.0,68.69,2,25,103.04,5.0,3,0
+ORD-10609,2023-02-11,Clothing,West,Website,Female,49.0,60.81,5,0,304.05,5.0,7,0
+ORD-10610,2023-06-03,Home & Kitchen,South,In-Store,Female,33.0,156.36,1,0,156.36,3.0,9,0
+ORD-10611,2023-02-19,Home & Kitchen,West,Website,Female,19.0,103.74,2,5,197.11,4.0,13,0
+ORD-10612,2023-04-13,Electronics,East,Mobile App,Female,47.0,572.77,1,20,458.22,2.0,14,1
+ORD-10613,2023-05-13,Books,East,Website,Male,50.0,18.91,1,0,18.91,3.0,8,0
+ORD-10614,2023-11-16,Sports,Central,Website,Female,60.0,133.09,2,10,239.56,4.0,1,0
+ORD-10615,2023-10-26,Beauty,East,In-Store,Male,26.0,33.61,5,0,168.05,2.0,9,0
+ORD-10616,2023-10-27,Electronics,North,In-Store,Male,41.0,660.94,1,0,660.94,2.0,7,0
+ORD-10617,2023-08-23,Sports,South,Website,Male,22.0,155.62,3,5,443.52,3.0,9,0
+ORD-10618,2023-06-29,Electronics,West,Website,Male,24.0,550.43,2,10,990.77,4.0,5,0
+ORD-10619,2023-12-15,Home & Kitchen,West,Website,Female,21.0,258.04,4,5,980.55,4.0,6,0
+ORD-10620,2023-10-24,Books,Central,Website,Male,60.0,29.16,1,0,29.16,5.0,9,0
+ORD-10621,2023-09-22,Beauty,West,Mobile App,Male,58.0,58.65,2,5,111.43,4.0,12,0
+ORD-10622,2023-01-06,Home & Kitchen,West,In-Store,Female,39.0,112.8,5,15,479.4,5.0,14,0
+ORD-10623,2023-06-10,Electronics,Central,Website,Male,39.0,530.91,2,20,849.46,5.0,4,0
+ORD-10624,2023-02-15,Home & Kitchen,East,Website,Female,64.0,155.05,1,20,124.04,4.0,6,0
+ORD-10625,2023-12-09,Clothing,East,Mobile App,Female,27.0,140.97,4,5,535.69,5.0,14,0
+ORD-10626,2023-07-24,Sports,North,In-Store,Male,25.0,122.82,1,10,110.54,4.0,10,0
+ORD-10627,2023-07-06,Electronics,Central,In-Store,Female,24.0,214.19,4,0,856.76,5.0,1,0
+ORD-10628,2023-10-16,Clothing,East,Website,Female,48.0,58.47,1,5,55.55,5.0,13,0
+ORD-10629,2023-12-08,Home & Kitchen,South,Mobile App,Female,26.0,203.52,2,15,345.98,3.0,4,0
+ORD-10630,2023-10-11,Electronics,Central,Mobile App,Other,21.0,685.66,1,20,548.53,4.0,3,1
+ORD-10631,2023-03-21,Home & Kitchen,South,Mobile App,Female,64.0,187.71,2,10,337.88,3.0,9,0
+ORD-10632,2023-05-05,Home & Kitchen,South,Social Media,Male,23.0,257.5,2,10,463.5,3.0,5,0
+ORD-10633,2023-06-22,Home & Kitchen,East,Website,Male,54.0,235.65,1,25,176.74,3.0,9,0
+ORD-10634,2023-09-14,Sports,Central,Mobile App,Male,60.0,144.84,1,5,137.6,5.0,12,0
+ORD-10635,2023-08-04,Clothing,South,In-Store,Male,23.0,110.06,1,0,110.06,5.0,10,0
+ORD-10636,2023-05-14,Electronics,South,Social Media,Female,29.0,412.66,2,0,825.32,5.0,9,1
+ORD-10637,2023-05-03,Clothing,South,Website,Female,41.0,42.14,2,10,75.85,2.0,4,0
+ORD-10638,2023-10-08,Clothing,Central,In-Store,Male,32.0,96.28,4,0,385.12,5.0,7,0
+ORD-10639,2023-02-23,Electronics,South,Website,Female,38.0,595.46,4,0,2381.84,3.0,11,0
+ORD-10640,2023-03-11,Home & Kitchen,South,In-Store,Male,58.0,239.12,1,10,215.21,4.0,11,0
+ORD-10641,2023-05-07,Electronics,South,Mobile App,Female,66.0,543.95,1,0,543.95,3.0,10,0
+ORD-10642,2023-08-09,Electronics,South,In-Store,Female,50.0,455.46,1,10,409.91,4.0,1,0
+ORD-10643,2023-09-23,Beauty,East,Website,Male,58.0,33.67,3,5,95.96,5.0,14,0
+ORD-10644,2023-12-19,Sports,South,Social Media,Male,55.0,103.96,2,10,187.13,4.0,12,0
+ORD-10645,2023-03-15,Clothing,Central,Mobile App,Female,33.0,140.04,2,10,252.07,2.0,11,0
+ORD-10646,2023-08-29,Clothing,East,In-Store,Male,70.0,98.81,4,0,395.24,4.0,1,0
+ORD-10647,2023-11-20,Sports,West,Website,Male,22.0,145.1,1,20,116.08,4.0,6,1
+ORD-10648,2023-12-06,Home & Kitchen,South,Website,Other,59.0,252.13,1,0,252.13,3.0,2,1
+ORD-10649,2023-12-17,Clothing,Central,Website,Female,41.0,64.01,1,15,54.41,1.0,1,0
+ORD-10650,2023-10-23,Clothing,West,In-Store,Male,44.0,66.41,2,5,126.18,5.0,6,0
+ORD-10651,2023-08-14,Sports,East,Social Media,Male,63.0,144.54,1,0,144.54,4.0,1,0
+ORD-10652,2023-05-19,Electronics,West,Mobile App,Female,18.0,227.63,1,0,227.63,4.0,9,0
+ORD-10653,2023-09-11,Beauty,South,Website,Female,68.0,50.44,4,0,201.76,4.0,10,0
+ORD-10654,2023-06-11,Books,West,Social Media,Male,49.0,47.05,5,10,211.72,4.0,5,0
+ORD-10655,2023-02-14,Electronics,East,In-Store,Male,59.0,669.64,3,20,1607.14,4.0,2,0
+ORD-10656,2023-03-09,Sports,Central,Mobile App,Female,57.0,71.29,2,10,128.32,1.0,7,1
+ORD-10657,2023-04-29,Electronics,West,In-Store,Male,60.0,210.09,1,0,210.09,5.0,7,0
+ORD-10658,2023-07-03,Clothing,Central,Website,Male,31.0,138.77,2,15,235.91,5.0,4,0
+ORD-10659,2023-03-17,Books,East,Mobile App,Male,63.0,35.15,3,0,105.45,5.0,11,0
+ORD-10660,2023-10-06,Electronics,Central,Mobile App,Male,18.0,491.55,1,0,491.55,3.0,9,0
+ORD-10661,2023-02-06,Sports,East,Website,Male,61.0,133.38,1,10,120.04,4.0,11,0
+ORD-10662,2023-11-20,Home & Kitchen,South,Website,Male,55.0,220.9,2,20,353.44,4.0,11,0
+ORD-10663,2023-10-22,Electronics,Central,Website,Female,19.0,407.52,3,0,1222.56,2.0,13,0
+ORD-10664,2023-11-13,Electronics,Central,In-Store,Female,51.0,510.46,1,25,382.84,4.0,5,0
+ORD-10665,2023-05-20,Electronics,North,In-Store,Male,35.0,648.2,1,0,648.2,4.0,8,0
+ORD-10666,2023-01-17,Books,Central,Mobile App,Male,46.0,29.91,4,15,101.69,5.0,9,0
+ORD-10667,2023-08-01,Electronics,Central,Social Media,Female,70.0,524.0,2,5,995.6,1.0,14,0
+ORD-10668,2023-01-17,Books,West,Website,Female,58.0,28.66,1,0,28.66,,13,0
+ORD-10669,2023-09-08,Sports,East,In-Store,Female,23.0,168.41,1,25,126.31,5.0,6,0
+ORD-10670,2023-06-27,Sports,West,In-Store,Female,24.0,54.12,1,15,46.0,5.0,1,0
+ORD-10671,2023-09-05,Electronics,South,Website,Female,45.0,621.08,1,5,590.03,5.0,1,0
+ORD-10672,2023-03-29,Clothing,East,Social Media,Male,42.0,92.64,3,5,264.02,1.0,5,0
+ORD-10673,2023-03-13,Clothing,West,In-Store,Male,54.0,106.05,1,5,100.75,3.0,14,0
+ORD-10674,2023-08-08,Clothing,Central,Mobile App,Male,49.0,61.8,1,15,52.53,3.0,10,0
+ORD-10675,2023-06-12,Clothing,West,Mobile App,Other,39.0,138.37,1,10,124.53,3.0,10,0
+ORD-10676,2023-11-19,Clothing,West,Mobile App,Other,62.0,88.97,1,20,71.18,3.0,1,0
+ORD-10677,2023-07-01,Home & Kitchen,West,Mobile App,Female,65.0,208.54,5,5,990.56,5.0,14,0
+ORD-10678,2023-06-06,Clothing,West,Website,Female,28.0,48.31,4,0,193.24,4.0,4,0
+ORD-10679,2023-03-28,Clothing,East,Mobile App,Female,25.0,69.48,1,0,69.48,2.0,5,0
+ORD-10680,2023-07-31,Clothing,North,Social Media,Female,26.0,133.23,1,10,119.91,4.0,8,0
+ORD-10681,2023-01-25,Electronics,East,Mobile App,Female,20.0,219.21,1,10,197.29,5.0,12,0
+ORD-10682,2023-08-19,Home & Kitchen,South,Website,Female,61.0,140.49,2,0,280.98,4.0,9,0
+ORD-10683,2023-03-29,Clothing,Central,Social Media,Male,22.0,59.82,5,5,284.14,4.0,3,0
+ORD-10684,2023-02-03,Beauty,North,Mobile App,Female,,50.99,1,0,50.99,2.0,3,0
+ORD-10685,2023-09-24,Sports,West,Website,Male,55.0,127.77,1,20,102.22,4.0,12,0
+ORD-10686,2023-05-01,Electronics,North,Mobile App,Male,26.0,692.48,5,5,3289.28,4.0,13,0
+ORD-10687,2023-08-23,Electronics,North,Website,Male,28.0,509.71,1,5,484.22,3.0,5,0
+ORD-10688,2023-06-30,Sports,South,Mobile App,Male,45.0,164.14,4,0,656.56,4.0,2,0
+ORD-10689,2023-10-15,Books,North,In-Store,Female,68.0,43.28,2,20,69.25,,11,0
+ORD-10690,2023-03-16,Electronics,East,Website,Female,43.0,734.96,1,20,587.97,4.0,4,0
+ORD-10691,2023-06-19,Home & Kitchen,West,Website,Female,60.0,103.53,1,0,103.53,1.0,7,1
+ORD-10692,2023-08-28,Clothing,Central,Mobile App,Male,49.0,129.86,4,0,519.44,2.0,3,0
+ORD-10693,2023-02-09,Sports,North,Website,Male,69.0,144.19,2,10,259.54,,3,0
+ORD-10694,2023-11-11,Home & Kitchen,Central,In-Store,Male,61.0,253.18,5,10,1139.31,3.0,8,0
+ORD-10695,2023-08-07,Beauty,North,In-Store,Female,18.0,29.98,1,15,25.48,3.0,14,0
+ORD-10696,2023-06-30,Home & Kitchen,North,Website,Male,43.0,90.65,1,5,86.12,3.0,10,0
+ORD-10697,2023-01-06,Beauty,Central,Mobile App,Male,57.0,27.55,2,0,55.1,3.0,9,0
+ORD-10698,2023-05-30,Clothing,East,Mobile App,Female,30.0,39.39,1,5,37.42,3.0,6,0
+ORD-10699,2023-09-09,Clothing,Central,Mobile App,Female,18.0,64.4,3,20,154.56,4.0,4,1
+ORD-10700,2023-10-17,Electronics,North,In-Store,Male,65.0,530.56,3,5,1512.1,1.0,9,0
+ORD-10701,2023-07-22,Sports,West,Mobile App,Female,48.0,100.44,2,5,190.84,5.0,1,0
+ORD-10702,2023-07-09,Electronics,South,Mobile App,Male,41.0,284.99,1,5,270.74,5.0,13,0
+ORD-10703,2023-10-11,Books,West,Mobile App,Male,,45.46,4,5,172.75,2.0,10,0
+ORD-10704,2023-02-18,Books,Central,Mobile App,Female,63.0,20.7,1,15,17.6,4.0,12,0
+ORD-10705,2023-01-13,Sports,Central,Website,Other,21.0,174.31,2,10,313.76,5.0,11,0
+ORD-10706,2023-08-28,Clothing,East,Mobile App,Male,23.0,71.21,1,0,71.21,5.0,1,0
+ORD-10707,2023-03-29,Electronics,East,Website,Male,64.0,237.66,2,5,451.55,5.0,7,0
+ORD-10708,2023-12-29,Clothing,West,Website,Female,48.0,57.4,1,0,57.4,5.0,12,0
+ORD-10709,2023-08-12,Electronics,West,In-Store,Female,29.0,227.54,2,0,455.08,2.0,5,0
+ORD-10710,2023-11-04,Clothing,West,Website,Female,71.0,62.74,1,20,50.19,5.0,12,0
+ORD-10711,2023-08-13,Home & Kitchen,North,Mobile App,Male,22.0,199.79,1,5,189.8,4.0,6,0
+ORD-10712,2023-10-08,Electronics,West,Website,Female,44.0,413.08,2,5,784.85,4.0,6,0
+ORD-10713,2023-07-02,Beauty,East,Social Media,Male,31.0,27.8,1,0,27.8,4.0,4,0
+ORD-10714,2023-08-07,Books,North,Social Media,Male,22.0,28.41,4,5,107.96,5.0,5,0
+ORD-10715,2023-09-15,Clothing,East,Website,Female,57.0,74.56,1,15,63.38,4.0,2,0
+ORD-10716,2023-10-15,Sports,Central,Social Media,Female,37.0,82.49,1,25,61.87,4.0,6,0
+ORD-10717,2023-05-06,Electronics,East,Social Media,Female,59.0,625.01,1,10,562.51,3.0,14,0
+ORD-10718,2023-02-13,Clothing,South,Website,Female,52.0,53.34,1,20,42.67,5.0,6,0
+ORD-10719,2023-10-07,Beauty,North,Mobile App,Male,25.0,66.54,5,0,332.7,3.0,12,0
+ORD-10720,2023-03-10,Electronics,North,Website,Female,20.0,225.63,1,15,191.79,4.0,7,0
+ORD-10721,2023-12-28,Home & Kitchen,West,Website,Male,45.0,160.83,1,0,160.83,2.0,11,0
+ORD-10722,2023-11-25,Electronics,East,Mobile App,Female,64.0,642.02,1,0,642.02,4.0,11,0
+ORD-10723,2023-11-23,Books,North,Mobile App,Female,70.0,28.39,3,5,80.91,3.0,9,0
+ORD-10724,2023-07-08,Home & Kitchen,North,Mobile App,Female,64.0,91.39,1,5,86.82,4.0,14,0
+ORD-10725,2023-07-24,Electronics,North,Website,Male,41.0,521.93,1,10,469.74,5.0,8,0
+ORD-10726,2023-05-18,Clothing,Central,Mobile App,Female,40.0,140.8,2,20,225.28,2.0,11,0
+ORD-10727,2023-09-11,Books,North,Social Media,Female,29.0,43.77,4,15,148.82,,13,0
+ORD-10728,2023-11-20,Books,North,Mobile App,Male,51.0,33.67,1,10,30.3,3.0,11,0
+ORD-10729,2023-11-01,Electronics,East,In-Store,Other,61.0,539.86,1,0,539.86,4.0,3,0
+ORD-10730,2023-01-31,Clothing,Central,Website,Male,29.0,75.1,1,0,75.1,2.0,9,0
+ORD-10731,2023-11-08,Beauty,East,In-Store,Female,70.0,55.38,3,5,157.83,4.0,7,0
+ORD-10732,2023-04-11,Clothing,West,Mobile App,Female,53.0,124.77,2,0,249.54,5.0,13,0
+ORD-10733,2023-08-30,Sports,South,Social Media,Female,58.0,160.78,3,5,458.22,4.0,11,0
+ORD-10734,2023-02-24,Electronics,East,Website,Male,21.0,510.41,1,10,459.37,3.0,2,0
+ORD-10735,2023-09-02,Clothing,East,In-Store,Female,69.0,116.93,1,0,116.93,5.0,12,0
+ORD-10736,2023-05-15,Books,South,Mobile App,Female,35.0,48.34,2,0,96.68,2.0,7,0
+ORD-10737,2023-09-14,Books,East,Mobile App,Female,70.0,39.36,2,20,62.98,5.0,13,0
+ORD-10738,2023-03-23,Home & Kitchen,East,Website,Female,36.0,248.78,2,0,497.56,3.0,13,0
+ORD-10739,2023-06-23,Sports,North,Social Media,Male,20.0,123.57,2,10,222.43,5.0,14,0
+ORD-10740,2023-02-19,Home & Kitchen,North,Website,Female,42.0,175.68,1,10,158.11,4.0,13,1
+ORD-10741,2023-09-14,Sports,West,Mobile App,Female,47.0,141.75,1,15,120.49,4.0,2,0
+ORD-10742,2023-06-19,Sports,West,Website,Male,34.0,127.05,1,0,127.05,5.0,8,0
+ORD-10743,2023-12-22,Clothing,East,Social Media,Female,60.0,131.99,1,5,125.39,3.0,13,0
+ORD-10744,2023-09-11,Sports,Central,In-Store,Female,23.0,148.74,4,15,505.72,5.0,14,0
+ORD-10745,2023-07-05,Books,North,In-Store,Female,63.0,36.49,5,5,173.33,5.0,6,1
+ORD-10746,2023-05-23,Clothing,West,Mobile App,Male,21.0,112.06,2,10,201.71,5.0,14,0
+ORD-10747,2023-06-26,Electronics,South,Mobile App,Female,52.0,709.32,4,5,2695.42,3.0,6,0
+ORD-10748,2023-11-30,Home & Kitchen,North,Mobile App,Female,57.0,153.53,2,0,307.06,4.0,9,0
+ORD-10749,2023-03-10,Home & Kitchen,East,In-Store,Female,52.0,136.35,2,5,259.06,4.0,4,0
+ORD-10750,2023-09-20,Electronics,South,Mobile App,Male,28.0,679.2,3,15,1731.96,1.0,3,1
+ORD-10751,2023-07-15,Books,North,Social Media,Male,34.0,18.69,1,5,17.76,2.0,3,0
+ORD-10752,2023-06-02,Electronics,West,Website,Male,66.0,503.04,5,10,2263.68,4.0,3,0
+ORD-10753,2023-10-29,Clothing,East,Social Media,Male,53.0,44.04,2,0,88.08,5.0,12,0
+ORD-10754,2023-02-17,Books,Central,Website,Male,43.0,,3,0,130.02,5.0,12,0
+ORD-10755,2023-11-16,Home & Kitchen,South,Website,Male,51.0,249.48,3,15,636.17,2.0,12,0
+ORD-10756,2023-01-06,Electronics,West,Website,Female,57.0,748.99,2,20,1198.38,4.0,14,0
+ORD-10757,2023-03-18,Electronics,East,Website,Male,40.0,418.95,2,0,837.9,5.0,10,0
+ORD-10758,2023-12-28,Books,West,Social Media,Male,26.0,49.12,1,10,44.21,1.0,3,0
+ORD-10759,2023-09-10,Sports,South,In-Store,Male,45.0,131.45,1,10,118.3,3.0,2,0
+ORD-10760,2023-04-20,Sports,Central,In-Store,Male,24.0,76.86,1,5,73.02,4.0,14,0
+ORD-10761,2023-10-28,Clothing,South,Website,Female,58.0,44.98,1,10,40.48,,8,0
+ORD-10762,2023-09-23,Books,South,Website,Female,29.0,38.82,1,0,38.82,3.0,11,0
+ORD-10763,2023-08-28,Home & Kitchen,East,Mobile App,Female,40.0,138.49,2,5,263.13,3.0,10,0
+ORD-10764,2023-10-21,Sports,North,In-Store,Female,63.0,160.06,2,20,256.1,2.0,1,1
+ORD-10765,2023-10-16,Books,South,Website,Other,27.0,52.33,1,10,47.1,3.0,1,0
+ORD-10766,2023-03-05,Sports,North,Mobile App,Male,48.0,120.51,1,10,108.46,2.0,5,0
+ORD-10767,2023-10-20,Clothing,East,Mobile App,Female,40.0,102.65,4,10,369.54,4.0,4,0
+ORD-10768,2023-01-05,Electronics,Central,In-Store,Male,50.0,283.24,2,5,538.16,5.0,6,0
+ORD-10769,2023-01-16,Clothing,Central,Mobile App,Male,50.0,73.93,1,25,55.45,3.0,6,0
+ORD-10770,2023-08-08,Home & Kitchen,East,Website,Male,58.0,227.32,2,5,431.91,4.0,14,1
+ORD-10771,2023-12-07,Sports,West,Website,Female,62.0,111.71,2,5,212.25,5.0,2,0
+ORD-10772,2023-04-06,Books,Central,In-Store,Male,46.0,27.57,2,0,55.14,2.0,14,1
+ORD-10773,2023-03-13,Home & Kitchen,Central,Social Media,Female,61.0,173.92,1,10,156.53,4.0,5,0
+ORD-10774,2023-04-04,Electronics,West,Mobile App,Male,22.0,491.54,4,0,1966.16,5.0,4,0
+ORD-10775,2023-11-19,Books,Central,In-Store,Female,61.0,33.56,1,5,31.88,5.0,9,0
+ORD-10776,2023-08-03,Clothing,East,Website,Male,55.0,87.38,4,0,349.52,5.0,13,0
+ORD-10777,2023-03-14,Clothing,East,Mobile App,Male,39.0,96.66,1,5,91.83,5.0,12,0
+ORD-10778,2023-03-03,Electronics,West,Mobile App,Female,68.0,739.16,1,0,739.16,4.0,14,0
+ORD-10779,2023-01-16,Home & Kitchen,North,Website,Male,21.0,239.99,1,20,191.99,4.0,4,1
+ORD-10780,2023-07-29,Home & Kitchen,West,Mobile App,Male,42.0,175.65,5,5,834.34,3.0,13,0
+ORD-10781,2023-11-01,Home & Kitchen,East,Social Media,Male,36.0,80.52,1,20,64.42,4.0,12,0
+ORD-10782,2023-01-09,Home & Kitchen,Central,Website,Male,23.0,239.5,2,0,479.0,4.0,8,0
+ORD-10783,2023-01-22,Clothing,West,Website,Male,71.0,105.52,2,10,189.94,5.0,6,0
+ORD-10784,2023-03-08,Sports,South,Mobile App,Male,63.0,63.82,3,20,153.17,4.0,13,0
+ORD-10785,2023-02-28,Books,North,In-Store,Male,42.0,50.11,1,5,47.6,5.0,8,0
+ORD-10786,2023-11-27,Sports,North,Website,Female,46.0,114.77,1,5,109.03,5.0,12,0
+ORD-10787,2023-10-16,Clothing,Central,Website,Male,46.0,63.0,4,5,239.4,4.0,5,0
+ORD-10788,2023-08-25,Home & Kitchen,Central,Website,Female,70.0,225.83,2,20,361.33,4.0,2,1
+ORD-10789,2023-04-24,Electronics,West,Website,Other,36.0,361.75,1,5,343.66,3.0,14,0
+ORD-10790,2023-07-04,Electronics,Central,In-Store,Male,47.0,675.66,2,15,1148.62,4.0,8,0
+ORD-10791,2023-05-15,Beauty,East,Website,Female,48.0,71.43,3,15,182.15,4.0,4,0
+ORD-10792,2023-08-10,Clothing,Central,In-Store,Male,37.0,73.12,1,20,58.5,4.0,2,1
+ORD-10793,2023-09-23,Electronics,North,In-Store,Male,54.0,384.34,2,10,691.81,5.0,1,0
+ORD-10794,2023-06-08,Home & Kitchen,Central,Website,Female,32.0,123.67,2,0,247.34,4.0,14,0
+ORD-10795,2023-03-25,Beauty,Central,In-Store,Male,50.0,37.96,1,0,37.96,5.0,14,0
+ORD-10796,2023-06-07,Home & Kitchen,West,Website,Male,53.0,,1,20,94.79,5.0,8,0
+ORD-10797,2023-02-16,Beauty,North,In-Store,Male,52.0,52.43,2,20,83.89,5.0,14,0
+ORD-10798,2023-04-18,Beauty,West,Website,Male,20.0,46.99,3,5,133.92,5.0,6,0
+ORD-10799,2023-05-21,Clothing,East,Mobile App,Female,61.0,82.67,2,0,165.34,3.0,11,0
+ORD-10800,2023-11-30,Electronics,North,Mobile App,Male,51.0,395.67,1,15,336.32,4.0,12,0
+ORD-10801,2023-12-28,Electronics,South,Mobile App,Female,50.0,674.54,2,5,1281.63,3.0,8,0
+ORD-10802,2023-04-15,Clothing,East,In-Store,Female,37.0,95.2,1,0,95.2,5.0,9,0
+ORD-10803,2023-08-12,Home & Kitchen,East,In-Store,Female,49.0,105.12,1,25,78.84,4.0,6,0
+ORD-10804,2023-02-12,Beauty,West,Website,Female,65.0,66.78,2,10,120.2,5.0,12,0
+ORD-10805,2023-08-24,Electronics,North,Website,Male,56.0,352.42,1,0,352.42,4.0,2,0
+ORD-10806,2023-03-25,Sports,West,Social Media,Female,46.0,141.18,2,0,282.36,5.0,5,0
+ORD-10807,2023-12-09,Home & Kitchen,South,Mobile App,Male,26.0,158.52,1,20,126.82,4.0,13,0
+ORD-10808,2023-08-11,Home & Kitchen,East,In-Store,Female,71.0,253.34,2,5,481.35,4.0,12,0
+ORD-10809,2023-09-04,Electronics,North,Mobile App,Female,40.0,258.29,1,0,258.29,3.0,12,0
+ORD-10810,2023-04-22,Electronics,East,In-Store,Female,64.0,302.62,2,5,574.98,4.0,12,0
+ORD-10811,2023-11-13,Home & Kitchen,West,Website,Female,47.0,209.66,3,20,503.18,4.0,7,0
+ORD-10812,2023-01-05,Home & Kitchen,South,Mobile App,Male,27.0,116.02,1,10,104.42,4.0,10,0
+ORD-10813,2023-07-20,Clothing,Central,In-Store,Female,44.0,44.34,2,0,88.68,4.0,3,0
+ORD-10814,2023-03-13,Clothing,West,Mobile App,Female,59.0,96.07,5,10,432.32,4.0,9,0
+ORD-10815,2023-07-16,Electronics,South,In-Store,Male,58.0,719.57,2,20,1151.31,5.0,10,0
+ORD-10816,2023-06-14,Beauty,West,In-Store,Male,47.0,60.09,1,25,45.07,4.0,7,0
+ORD-10817,2023-05-28,Sports,Central,In-Store,Female,60.0,113.07,2,0,226.14,4.0,8,0
+ORD-10818,2023-01-02,Beauty,Central,Website,Male,39.0,27.16,1,0,27.16,5.0,4,0
+ORD-10819,2023-08-19,Sports,Central,Social Media,Female,32.0,149.61,1,10,134.65,4.0,12,0
+ORD-10820,2023-10-30,Clothing,East,Mobile App,Female,33.0,142.46,1,0,142.46,3.0,5,0
+ORD-10821,2023-11-05,Sports,South,Website,Female,34.0,53.01,1,15,45.06,4.0,9,1
+ORD-10822,2023-04-19,Electronics,West,In-Store,Female,54.0,313.89,1,20,251.11,3.0,4,0
+ORD-10823,2023-10-06,Home & Kitchen,South,Website,Other,52.0,106.99,1,20,85.59,4.0,1,0
+ORD-10824,2023-09-21,Electronics,West,Website,Male,21.0,675.27,1,10,607.74,3.0,8,0
+ORD-10825,2023-12-28,Clothing,East,Mobile App,Female,33.0,140.82,3,0,422.46,3.0,7,0
+ORD-10826,2023-04-22,Sports,North,Mobile App,Female,25.0,168.46,1,10,151.61,5.0,11,0
+ORD-10827,2023-07-31,Clothing,Central,Website,Female,51.0,61.32,1,0,61.32,5.0,14,0
+ORD-10828,2023-02-04,Sports,North,Social Media,Female,67.0,91.06,1,5,86.51,5.0,2,0
+ORD-10829,2023-12-27,Books,South,In-Store,Male,44.0,42.47,1,15,36.1,4.0,5,0
+ORD-10830,2023-12-30,Clothing,West,Website,Male,20.0,64.73,3,15,165.06,5.0,8,0
+ORD-10831,2023-08-09,Clothing,West,Social Media,Male,40.0,133.73,2,0,267.46,4.0,4,0
+ORD-10832,2023-12-07,Electronics,South,Website,Female,54.0,429.37,2,15,729.93,5.0,6,0
+ORD-10833,2023-05-27,Books,East,Website,Male,32.0,24.71,3,15,63.01,5.0,6,0
+ORD-10834,2023-01-31,Sports,Central,In-Store,Female,29.0,70.79,1,5,67.25,3.0,9,0
+ORD-10835,2023-02-23,Electronics,South,Website,Female,48.0,751.33,1,5,713.76,5.0,10,0
+ORD-10836,2023-08-18,Books,East,Website,Female,61.0,20.6,2,5,39.14,4.0,11,0
+ORD-10837,2023-07-23,Beauty,South,Website,Female,59.0,97.62,1,10,87.86,4.0,5,0
+ORD-10838,2023-12-27,Clothing,Central,Website,Female,46.0,49.28,1,25,36.96,4.0,14,0
+ORD-10839,2023-08-26,Beauty,West,Website,Female,59.0,85.49,4,0,341.96,4.0,11,0
+ORD-10840,2023-04-10,Sports,West,Mobile App,Male,53.0,87.96,1,20,70.37,2.0,1,1
+ORD-10841,2023-08-17,Books,Central,Website,Male,64.0,51.88,4,20,166.02,2.0,4,1
+ORD-10842,2023-04-22,Home & Kitchen,West,Mobile App,Female,26.0,250.32,2,10,450.58,3.0,3,0
+ORD-10843,2023-09-09,Electronics,East,Social Media,Female,49.0,729.03,1,0,729.03,5.0,7,0
+ORD-10844,2023-08-23,Books,East,Mobile App,Female,40.0,25.8,1,0,25.8,4.0,9,0
+ORD-10845,2023-11-11,Home & Kitchen,North,Website,Male,50.0,84.16,1,15,71.54,3.0,6,1
+ORD-10846,2023-08-06,Electronics,East,Website,Male,66.0,758.87,2,10,1365.97,5.0,7,0
+ORD-10847,2023-01-29,Electronics,Central,Social Media,Male,37.0,544.24,4,5,2068.11,4.0,6,0
+ORD-10848,2023-10-30,Electronics,North,Website,Female,46.0,331.68,2,10,597.02,4.0,5,0
+ORD-10849,2023-08-24,Electronics,West,Mobile App,Female,45.0,478.24,3,0,1434.72,4.0,12,0
+ORD-10850,2023-08-09,Electronics,North,Mobile App,Male,49.0,720.71,2,5,1369.35,4.0,1,1
+ORD-10851,2023-07-17,Sports,South,In-Store,Male,39.0,59.02,2,10,106.24,4.0,10,0
+ORD-10852,2023-03-09,Clothing,South,Mobile App,Male,45.0,101.52,1,15,86.29,4.0,4,0
+ORD-10853,2023-09-14,Books,West,Social Media,Male,34.0,15.74,2,25,23.61,5.0,1,0
+ORD-10854,2023-10-12,Clothing,East,Social Media,Female,63.0,79.6,1,25,59.7,2.0,6,1
+ORD-10855,2023-04-27,Clothing,North,In-Store,Male,30.0,108.56,3,15,276.83,2.0,11,0
+ORD-10856,2023-01-18,Books,West,Mobile App,Female,70.0,31.34,1,20,25.07,2.0,10,1
+ORD-10857,2023-03-07,Home & Kitchen,Central,Mobile App,Male,37.0,214.25,1,0,214.25,3.0,10,0
+ORD-10858,2023-11-26,Electronics,North,Social Media,Male,39.0,448.71,4,20,1435.87,5.0,10,0
+ORD-10859,2023-09-04,Clothing,West,In-Store,Female,29.0,96.68,1,0,96.68,3.0,14,0
+ORD-10860,2023-03-21,Home & Kitchen,South,In-Store,Female,27.0,145.68,2,15,247.66,3.0,4,0
+ORD-10861,2023-07-30,Beauty,South,Social Media,Female,62.0,61.86,5,10,278.37,2.0,8,0
+ORD-10862,2023-03-24,Clothing,North,Mobile App,Male,26.0,82.29,2,10,148.12,5.0,4,0
+ORD-10863,2023-06-30,Clothing,East,In-Store,Female,35.0,64.34,2,10,115.81,4.0,6,0
+ORD-10864,2023-07-05,Books,North,In-Store,Male,43.0,20.72,1,15,17.61,5.0,3,0
+ORD-10865,2023-10-28,Electronics,South,Mobile App,Female,61.0,594.05,3,0,1782.15,5.0,7,0
+ORD-10866,2023-08-13,Home & Kitchen,North,In-Store,Male,60.0,108.79,1,10,97.91,3.0,5,0
+ORD-10867,2023-04-25,Beauty,East,Website,Male,36.0,29.0,4,5,110.2,4.0,3,1
+ORD-10868,2023-09-13,Clothing,North,Website,Female,60.0,139.5,2,15,237.15,5.0,5,0
+ORD-10869,2023-04-18,Books,West,Social Media,Female,67.0,21.43,4,10,77.15,2.0,5,0
+ORD-10870,2023-09-18,Electronics,Central,Social Media,Male,67.0,266.13,2,5,505.65,4.0,13,0
+ORD-10871,2023-10-03,Books,East,Mobile App,Female,28.0,38.49,2,5,73.13,3.0,6,0
+ORD-10872,2023-08-18,Beauty,West,Mobile App,Male,25.0,56.26,2,0,112.52,5.0,14,1
+ORD-10873,2023-02-06,Books,South,Website,Female,45.0,44.17,3,25,99.38,5.0,13,1
+ORD-10874,2023-05-15,Electronics,West,Social Media,Female,61.0,525.61,1,0,525.61,5.0,7,0
+ORD-10875,2023-01-21,Clothing,East,Website,Female,28.0,98.23,1,0,98.23,5.0,9,0
+ORD-10876,2023-05-06,Home & Kitchen,West,Mobile App,Female,32.0,199.84,3,10,539.57,4.0,8,0
+ORD-10877,2023-11-16,Sports,East,In-Store,Female,45.0,68.86,3,0,206.58,4.0,10,0
+ORD-10878,2023-09-16,Clothing,North,Mobile App,Female,48.0,118.79,2,20,190.06,5.0,3,0
+ORD-10879,2023-03-28,Books,South,Social Media,Female,39.0,31.09,4,20,99.49,5.0,14,0
+ORD-10880,2023-10-07,Sports,Central,Mobile App,Female,63.0,140.45,1,10,126.4,5.0,6,0
+ORD-10881,2023-02-05,Electronics,North,In-Store,Male,64.0,509.12,5,5,2418.32,,6,0
+ORD-10882,2023-07-18,Beauty,West,Website,Female,56.0,34.46,3,0,103.38,5.0,13,0
+ORD-10883,2023-01-05,Clothing,West,Mobile App,Female,47.0,63.15,4,0,252.6,4.0,1,0
+ORD-10884,2023-02-11,Clothing,East,In-Store,Female,65.0,80.49,5,0,402.45,5.0,5,0
+ORD-10885,2023-05-29,Home & Kitchen,North,Website,Female,39.0,72.07,1,0,72.07,4.0,1,0
+ORD-10886,2023-04-08,Clothing,West,In-Store,Male,24.0,95.12,2,15,161.7,2.0,9,0
+ORD-10887,2023-04-26,Electronics,East,Social Media,Female,66.0,255.75,1,0,255.75,5.0,3,0
+ORD-10888,2023-04-10,Clothing,South,Website,Female,48.0,93.01,2,0,186.02,1.0,14,0
+ORD-10889,2023-04-23,Home & Kitchen,Central,Mobile App,Male,42.0,260.81,2,10,469.46,5.0,10,0
+ORD-10890,2023-05-17,Electronics,West,Website,Male,48.0,719.92,1,5,683.92,4.0,14,0
+ORD-10891,2023-03-19,Clothing,West,Mobile App,Female,46.0,106.06,5,5,503.78,4.0,4,0
+ORD-10892,2023-12-26,Electronics,West,Mobile App,Male,45.0,246.77,1,5,234.43,4.0,1,0
+ORD-10893,2023-04-01,Books,East,Website,Female,21.0,31.8,2,0,63.6,5.0,13,0
+ORD-10894,2023-10-06,Electronics,North,Social Media,Male,21.0,392.91,1,10,353.62,5.0,2,0
+ORD-10895,2023-10-01,Home & Kitchen,East,Website,Female,68.0,110.72,3,0,332.16,5.0,6,0
+ORD-10896,2023-09-24,Beauty,South,Mobile App,Female,37.0,88.51,1,10,79.66,4.0,9,0
+ORD-10897,2023-07-29,Clothing,East,Website,Male,31.0,76.29,1,0,76.29,4.0,10,0
+ORD-10898,2023-02-12,Clothing,West,Website,Female,35.0,66.31,2,20,106.1,4.0,13,0
+ORD-10899,2023-01-08,Books,East,In-Store,Female,28.0,45.68,1,5,43.4,5.0,10,0
+ORD-10900,2023-09-10,Home & Kitchen,East,Mobile App,Male,49.0,106.51,1,15,90.53,4.0,9,0
+ORD-10901,2023-12-03,Electronics,West,Social Media,Male,31.0,594.3,2,0,1188.6,3.0,5,0
+ORD-10902,2023-05-04,Home & Kitchen,South,In-Store,Female,68.0,130.59,1,20,104.47,3.0,12,0
+ORD-10903,2023-05-27,Sports,West,Mobile App,Female,32.0,123.85,4,5,470.63,2.0,6,0
+ORD-10904,2023-06-07,Sports,Central,Website,Female,59.0,100.41,1,25,75.31,4.0,4,0
+ORD-10905,2023-09-04,Clothing,North,In-Store,Male,50.0,131.17,1,20,104.94,4.0,5,0
+ORD-10906,2023-01-20,Sports,East,Social Media,Female,60.0,75.37,1,0,75.37,5.0,7,0
+ORD-10907,2023-01-30,Books,West,Website,Male,18.0,51.02,3,0,153.06,2.0,12,0
+ORD-10908,2023-11-04,Electronics,South,Website,Female,48.0,256.03,3,0,768.09,4.0,6,0
+ORD-10909,2023-08-17,Clothing,East,In-Store,Female,46.0,43.84,1,5,41.65,5.0,4,1
+ORD-10910,2023-07-11,Books,North,Mobile App,Male,31.0,54.66,1,5,51.93,3.0,14,0
+ORD-10911,2023-11-15,Books,West,Website,Male,42.0,30.9,2,25,46.35,4.0,4,0
+ORD-10912,2023-07-04,Sports,South,Website,Male,20.0,115.86,1,10,104.27,5.0,14,0
+ORD-10913,2023-10-11,Home & Kitchen,Central,Mobile App,Female,47.0,96.93,1,15,82.39,4.0,8,0
+ORD-10914,2023-02-22,Electronics,West,Social Media,Male,50.0,735.74,1,10,662.17,2.0,12,0
+ORD-10915,2023-08-21,Clothing,Central,Website,Female,37.0,89.39,2,10,160.9,4.0,14,1
+ORD-10916,2023-07-28,Home & Kitchen,North,In-Store,Female,44.0,223.22,2,0,446.44,3.0,12,0
+ORD-10917,2023-04-12,Clothing,Central,Website,Male,57.0,105.72,4,10,380.59,5.0,13,0
+ORD-10918,2023-01-03,Electronics,East,Mobile App,Female,37.0,320.37,4,20,1025.18,4.0,7,0
+ORD-10919,2023-10-05,Beauty,West,Mobile App,Female,54.0,72.74,5,5,345.52,4.0,10,0
+ORD-10920,2023-03-19,Clothing,Central,Mobile App,Female,44.0,64.51,1,20,51.61,4.0,13,0
+ORD-10921,2023-10-26,Clothing,South,Website,Male,68.0,107.1,2,5,203.49,4.0,6,0
+ORD-10922,2023-09-10,Books,West,Social Media,Male,22.0,35.9,1,10,32.31,2.0,7,0
+ORD-10923,2023-01-04,Clothing,North,Social Media,Female,24.0,45.8,3,0,137.4,5.0,10,0
+ORD-10924,2023-05-10,Clothing,East,Mobile App,Female,63.0,72.85,5,10,327.82,4.0,7,0
+ORD-10925,2023-11-20,Home & Kitchen,East,Mobile App,Male,69.0,99.38,3,15,253.42,5.0,4,0
+ORD-10926,2023-07-19,Sports,North,In-Store,Female,67.0,87.25,2,15,148.32,2.0,3,0
+ORD-10927,2023-10-07,Clothing,West,Website,Male,18.0,122.02,2,20,195.23,5.0,6,0
+ORD-10928,2023-05-08,Electronics,North,Website,Female,44.0,213.78,1,5,203.09,5.0,1,0
+ORD-10929,2023-12-27,Books,North,In-Store,Female,46.0,23.64,1,25,17.73,3.0,11,0
+ORD-10930,2023-01-04,Clothing,East,Mobile App,Male,57.0,127.08,5,5,603.63,4.0,13,0
+ORD-10931,2023-01-06,Clothing,South,Mobile App,Male,34.0,53.04,1,15,45.08,4.0,12,0
+ORD-10932,2023-02-05,Electronics,West,Website,Female,35.0,369.66,1,10,332.69,4.0,3,0
+ORD-10933,2023-06-11,Home & Kitchen,North,Social Media,Male,37.0,139.03,5,25,521.36,,8,0
+ORD-10934,2023-06-06,Electronics,East,In-Store,Male,55.0,586.88,1,10,528.19,3.0,6,0
+ORD-10935,2023-06-26,Electronics,East,Website,Female,23.0,757.61,2,10,1363.7,5.0,9,0
+ORD-10936,2023-12-01,Home & Kitchen,East,In-Store,Male,45.0,165.87,5,5,787.88,5.0,9,0
+ORD-10937,2023-04-05,Home & Kitchen,West,Social Media,Male,23.0,180.63,1,5,171.6,3.0,8,1
+ORD-10938,2023-10-06,Electronics,North,Website,Female,28.0,744.41,1,25,558.31,4.0,14,1
+ORD-10939,2023-07-23,Electronics,North,Social Media,Male,45.0,606.82,1,15,515.8,5.0,4,0
+ORD-10940,2023-10-14,Books,North,Social Media,Male,53.0,28.52,1,10,25.67,5.0,4,0
+ORD-10941,2023-06-28,Beauty,South,In-Store,Male,69.0,84.56,4,25,253.68,5.0,10,0
+ORD-10942,2023-07-07,Clothing,North,Mobile App,Female,43.0,74.8,2,10,134.64,1.0,14,1
+ORD-10943,2023-03-17,Books,West,Mobile App,Female,25.0,20.75,1,0,20.75,4.0,2,0
+ORD-10944,2023-05-15,Clothing,Central,Mobile App,Female,61.0,68.05,1,0,68.05,4.0,3,0
+ORD-10945,2023-03-10,Home & Kitchen,North,In-Store,Male,58.0,144.63,3,0,433.89,3.0,12,0
+ORD-10946,2023-07-24,Clothing,West,Website,Male,40.0,91.24,3,20,218.98,4.0,4,0
+ORD-10947,2023-10-10,Clothing,North,Mobile App,Female,21.0,69.81,5,20,279.24,3.0,14,0
+ORD-10948,2023-01-05,Home & Kitchen,West,Mobile App,Male,49.0,222.41,1,20,177.93,4.0,11,0
+ORD-10949,2023-02-25,Books,East,Social Media,Male,61.0,31.34,1,0,31.34,4.0,6,0
+ORD-10950,2023-06-12,Electronics,East,Social Media,Male,61.0,740.26,1,15,629.22,3.0,4,0
+ORD-10951,2023-07-13,Clothing,South,Mobile App,Female,26.0,135.57,1,5,128.79,2.0,1,0
+ORD-10952,2023-06-30,Beauty,South,Mobile App,Male,49.0,85.96,1,0,85.96,5.0,3,0
+ORD-10953,2023-07-15,Sports,South,In-Store,Female,58.0,175.29,1,5,166.53,5.0,9,0
+ORD-10954,2023-01-21,Books,East,Mobile App,Male,45.0,24.68,5,0,123.4,4.0,4,0
+ORD-10955,2023-04-03,Home & Kitchen,Central,Website,Male,69.0,97.45,2,0,194.9,4.0,1,0
+ORD-10956,2023-12-26,Electronics,Central,Website,Male,71.0,411.99,3,0,1235.97,5.0,11,0
+ORD-10957,2023-05-27,Clothing,West,Mobile App,Male,39.0,101.14,2,5,192.17,3.0,14,0
+ORD-10958,2023-07-16,Sports,East,Mobile App,Female,57.0,77.65,1,0,77.65,5.0,2,0
+ORD-10959,2023-04-06,Electronics,South,Website,Male,65.0,625.79,2,5,1189.0,3.0,6,0
+ORD-10960,2023-11-09,Beauty,North,Website,Female,21.0,70.32,2,0,140.64,2.0,9,0
+ORD-10961,2023-09-16,Sports,North,Website,Female,71.0,69.49,2,15,118.13,2.0,13,0
+ORD-10962,2023-02-07,Home & Kitchen,West,Mobile App,Male,35.0,99.57,2,15,169.27,5.0,9,0
+ORD-10963,2023-12-14,Clothing,East,Website,Female,55.0,94.28,2,0,188.56,5.0,8,0
+ORD-10964,2023-11-11,Electronics,North,Website,Male,67.0,700.84,1,20,560.67,2.0,10,0
+ORD-10965,2023-04-16,Clothing,West,In-Store,Male,24.0,48.74,1,0,48.74,4.0,1,0
+ORD-10966,2023-06-07,Home & Kitchen,North,Website,Male,51.0,220.33,1,0,220.33,4.0,7,0
+ORD-10967,2023-10-04,Clothing,East,In-Store,Female,23.0,95.21,2,5,180.9,4.0,13,1
+ORD-10968,2023-02-20,Sports,East,Mobile App,Female,65.0,169.88,5,25,637.05,4.0,6,1
+ORD-10969,2023-09-24,Electronics,South,Website,Male,49.0,632.92,1,5,601.27,5.0,5,0
+ORD-10970,2023-11-24,Sports,South,Mobile App,Female,55.0,59.48,3,10,160.6,3.0,11,0
+ORD-10971,2023-01-08,Sports,East,Mobile App,Female,41.0,175.0,1,5,166.25,5.0,5,0
+ORD-10972,2023-08-31,Home & Kitchen,North,Social Media,Male,45.0,178.16,3,20,427.58,4.0,13,0
+ORD-10973,2023-09-24,Electronics,West,Social Media,Male,47.0,726.31,1,5,689.99,4.0,12,0
+ORD-10974,2023-07-27,Electronics,North,Mobile App,Male,60.0,443.55,2,5,842.74,5.0,10,0
+ORD-10975,2023-11-17,Electronics,East,Mobile App,Female,25.0,236.92,2,10,426.46,3.0,3,0
+ORD-10976,2023-02-04,Electronics,East,Mobile App,Male,51.0,740.52,5,0,3702.6,3.0,1,0
+ORD-10977,2023-11-22,Home & Kitchen,West,Website,Female,24.0,120.61,1,0,120.61,5.0,10,0
+ORD-10978,2023-09-23,Books,Central,Mobile App,Female,36.0,26.29,4,0,105.16,4.0,12,0
+ORD-10979,2023-06-13,Home & Kitchen,Central,Website,Female,20.0,247.48,1,10,222.73,4.0,6,0
+ORD-10980,2023-09-27,Clothing,South,Website,Male,25.0,138.64,4,10,499.1,4.0,1,0
+ORD-10981,2023-04-24,Clothing,North,In-Store,Female,68.0,119.15,2,5,226.38,4.0,14,0
+ORD-10982,2023-10-29,Sports,South,In-Store,Female,70.0,156.16,2,20,249.86,3.0,3,0
+ORD-10983,2023-02-28,Beauty,Central,Mobile App,Female,68.0,74.4,1,0,74.4,3.0,2,0
+ORD-10984,2023-11-07,Electronics,North,Social Media,Male,66.0,506.07,5,10,2277.32,4.0,6,0
+ORD-10985,2023-04-20,Home & Kitchen,East,Website,Male,44.0,113.66,5,10,511.47,5.0,5,0
+ORD-10986,2023-02-16,Books,South,Website,Male,35.0,25.66,1,10,23.09,4.0,9,0
+ORD-10987,2023-12-30,Electronics,Central,Mobile App,Female,48.0,713.37,3,0,2140.11,2.0,10,0
+ORD-10988,2023-03-16,Home & Kitchen,North,Mobile App,Female,30.0,213.3,1,15,181.3,5.0,13,0
+ORD-10989,2023-08-24,Clothing,East,Mobile App,Male,65.0,80.11,4,10,288.4,5.0,14,0
+ORD-10990,2023-12-27,Clothing,North,Website,Male,19.0,54.28,1,25,40.71,4.0,1,0
+ORD-10991,2023-12-01,Beauty,North,In-Store,Male,66.0,37.78,3,10,102.01,5.0,4,0
+ORD-10992,2023-09-02,Home & Kitchen,West,Website,Female,63.0,125.09,1,0,125.09,3.0,14,1
+ORD-10993,2023-05-24,Electronics,South,Website,Female,56.0,270.33,1,0,270.33,5.0,3,0
+ORD-10994,2023-03-10,Home & Kitchen,North,Website,Male,67.0,135.51,3,10,365.88,4.0,13,0
+ORD-10995,2023-01-25,Electronics,North,In-Store,Female,61.0,234.95,1,25,176.21,5.0,3,0
+ORD-10996,2023-06-01,Sports,West,Website,Female,57.0,169.66,1,0,169.66,5.0,10,0
+ORD-10997,2023-06-01,Books,Central,Social Media,Male,24.0,53.03,4,0,212.12,5.0,5,0
+ORD-10998,2023-11-01,Home & Kitchen,West,Mobile App,Male,53.0,147.4,2,0,294.8,5.0,3,0
+ORD-10999,2023-01-31,Electronics,Central,Website,Male,45.0,434.13,1,0,434.13,5.0,4,0
+ORD-11000,2023-11-26,Electronics,East,Website,Female,24.0,370.59,1,0,370.59,5.0,12,0
+ORD-11001,2023-09-08,Books,East,Mobile App,Female,35.0,19.74,1,5,18.75,4.0,4,0
+ORD-11002,2023-08-11,Clothing,South,Website,Female,55.0,122.99,1,0,122.99,3.0,9,0
+ORD-11003,2023-03-21,Sports,West,In-Store,Male,31.0,77.92,2,0,155.84,3.0,5,0
+ORD-11004,2023-02-18,Clothing,Central,In-Store,Female,67.0,136.93,3,0,410.79,3.0,5,0
+ORD-11005,2023-04-23,Clothing,North,Mobile App,Female,67.0,87.33,1,10,78.6,5.0,5,0
+ORD-11006,2023-01-31,Electronics,South,Social Media,Female,40.0,412.09,1,5,391.49,5.0,13,0
+ORD-11007,2023-03-15,Books,West,In-Store,Female,55.0,35.5,2,0,71.0,5.0,5,0
+ORD-11008,2023-11-25,Beauty,Central,Website,Female,69.0,82.75,4,20,264.8,4.0,4,0
+ORD-11009,2023-01-07,Clothing,North,Website,Female,36.0,100.05,1,5,95.05,1.0,3,0
+ORD-11010,2023-05-23,Sports,West,Mobile App,Other,39.0,76.28,4,25,228.84,,1,1
+ORD-11011,2023-02-04,Electronics,South,Website,Male,42.0,720.43,1,15,612.37,4.0,11,0
+ORD-11012,2023-04-29,Sports,South,Mobile App,Male,33.0,120.23,3,5,342.66,5.0,4,0
+ORD-11013,2023-01-12,Books,West,Mobile App,Male,61.0,21.18,2,5,40.24,4.0,10,0
+ORD-11014,2023-10-11,Electronics,South,In-Store,Male,39.0,627.53,2,10,1129.55,4.0,14,0
+ORD-11015,2023-02-14,Sports,West,Mobile App,Female,38.0,51.29,2,10,92.32,5.0,4,0
+ORD-11016,2023-11-30,Sports,West,In-Store,Female,37.0,92.88,2,15,157.9,3.0,11,1
+ORD-11017,2023-03-10,Electronics,East,Mobile App,Female,65.0,439.99,1,0,439.99,5.0,8,0
+ORD-11018,2023-04-19,Electronics,Central,Website,Male,61.0,217.67,1,20,174.14,4.0,10,0
+ORD-11019,2023-08-27,Clothing,East,Social Media,Female,43.0,70.91,1,0,70.91,5.0,7,0
+ORD-11020,2023-11-25,Books,West,Website,Male,35.0,51.34,1,15,43.64,4.0,4,0
+ORD-11021,2023-08-29,Beauty,East,Mobile App,Male,42.0,70.36,2,15,119.61,2.0,8,1
+ORD-11022,2023-01-05,Sports,West,Website,Female,20.0,78.67,5,0,393.35,4.0,4,1
+ORD-11023,2023-02-07,Clothing,North,Mobile App,Male,60.0,48.61,1,20,38.89,5.0,9,0
+ORD-11024,2023-03-09,Electronics,East,In-Store,Male,63.0,613.18,1,15,521.2,5.0,1,0
+ORD-11025,2023-08-22,Books,North,Website,Male,33.0,31.1,3,10,83.97,4.0,10,0
+ORD-11026,2023-10-02,Books,East,Social Media,Male,66.0,20.53,1,10,18.48,3.0,12,1
+ORD-11027,2023-12-24,Electronics,West,Website,Female,29.0,742.38,2,0,1484.76,4.0,3,0
+ORD-11028,2023-06-08,Home & Kitchen,Central,Social Media,Male,40.0,103.48,4,10,372.53,5.0,4,0
+ORD-11029,2023-03-03,Beauty,South,In-Store,Female,35.0,86.52,2,10,155.74,4.0,12,0
+ORD-11030,2023-01-14,Electronics,South,Website,Female,35.0,577.03,2,15,980.95,5.0,7,1
+ORD-11031,2023-03-03,Clothing,North,Website,Female,53.0,43.13,4,5,163.89,4.0,12,0
+ORD-11032,2023-07-21,Sports,East,Website,Female,71.0,91.14,2,0,182.28,5.0,11,0
+ORD-11033,2023-11-21,Electronics,North,Mobile App,Female,49.0,661.83,5,10,2978.24,3.0,12,0
+ORD-11034,2023-08-22,Electronics,Central,Website,Female,21.0,556.26,1,10,500.63,5.0,3,0
+ORD-11035,2023-04-18,Electronics,East,Social Media,Female,69.0,276.58,4,5,1051.0,4.0,3,0
+ORD-11036,2023-10-12,Home & Kitchen,South,Website,Male,46.0,113.41,3,5,323.22,4.0,2,1
+ORD-11037,2023-08-04,Electronics,Central,In-Store,Male,21.0,473.71,2,0,947.42,1.0,13,0
+ORD-11038,2023-06-01,Electronics,West,Mobile App,Female,59.0,244.22,2,25,366.33,3.0,1,0
+ORD-11039,2023-01-01,Home & Kitchen,Central,Website,Male,69.0,129.44,2,0,258.88,4.0,12,0
+ORD-11040,2023-07-12,Home & Kitchen,East,In-Store,Female,59.0,191.19,5,5,908.15,5.0,2,0
+ORD-11041,2023-11-20,Home & Kitchen,East,Mobile App,Male,53.0,79.74,1,10,71.77,4.0,7,0
+ORD-11042,2023-03-27,Clothing,South,Website,Male,59.0,117.2,2,10,210.96,3.0,3,0
+ORD-11043,2023-02-22,Beauty,North,Mobile App,Male,50.0,65.26,4,10,234.94,3.0,7,0
+ORD-11044,2023-11-09,Electronics,Central,Website,Male,35.0,666.22,1,10,599.6,2.0,4,0
+ORD-11045,2023-12-15,Clothing,West,Website,Female,42.0,115.03,3,10,310.58,4.0,10,0
+ORD-11046,2023-11-18,Clothing,Central,Mobile App,Male,41.0,88.08,4,10,317.09,3.0,1,0
+ORD-11047,2023-12-16,Books,South,Mobile App,Male,41.0,16.16,2,5,30.7,4.0,4,0
+ORD-11048,2023-01-21,Electronics,North,Website,Male,19.0,333.48,4,10,1200.53,4.0,7,0
+ORD-11049,2023-10-24,Electronics,North,Website,Female,33.0,338.79,1,25,254.09,3.0,1,0
+ORD-11050,2023-12-16,Beauty,Central,Social Media,Male,26.0,72.33,1,20,57.86,2.0,5,1
+ORD-11051,2023-05-20,Clothing,Central,Mobile App,Female,51.0,96.04,2,0,192.08,5.0,9,1
+ORD-11052,2023-11-03,Books,North,Mobile App,Male,49.0,23.24,2,5,44.16,5.0,4,0
+ORD-11053,2023-10-14,Beauty,South,Website,Male,47.0,31.04,3,5,88.46,4.0,9,0
+ORD-11054,2023-05-20,Clothing,Central,Website,Female,34.0,113.08,2,0,226.16,5.0,5,0
+ORD-11055,2023-10-15,Clothing,South,Mobile App,Female,35.0,130.28,1,15,110.74,4.0,9,0
+ORD-11056,2023-10-19,Books,East,Website,Male,70.0,48.61,1,0,48.61,4.0,11,0
+ORD-11057,2023-08-25,Electronics,East,In-Store,Female,29.0,614.67,1,0,614.67,1.0,10,0
+ORD-11058,2023-09-27,Electronics,West,Website,Male,51.0,311.19,1,10,280.07,4.0,10,1
+ORD-11059,2023-01-04,Home & Kitchen,West,Mobile App,Other,49.0,94.75,4,5,360.05,5.0,8,0
+ORD-11060,2023-09-09,Clothing,West,Mobile App,Male,34.0,115.25,3,0,345.75,4.0,2,0
+ORD-11061,2023-04-05,Electronics,North,In-Store,Male,38.0,539.25,5,10,2426.62,4.0,6,0
+ORD-11062,2023-05-04,Clothing,West,Website,Male,50.0,65.25,2,20,104.4,4.0,6,0
+ORD-11063,2023-03-13,Home & Kitchen,North,In-Store,Male,27.0,169.37,1,0,169.37,4.0,8,0
+ORD-11064,2023-09-24,Home & Kitchen,West,Mobile App,Female,24.0,251.78,1,20,201.42,5.0,8,0
+ORD-11065,2023-12-27,Books,South,In-Store,Other,23.0,19.59,1,0,19.59,5.0,7,0
+ORD-11066,2023-08-06,Electronics,West,In-Store,Male,42.0,543.95,1,0,543.95,4.0,6,0
+ORD-11067,2023-10-15,Sports,West,In-Store,Male,65.0,165.92,2,10,298.66,4.0,12,0
+ORD-11068,2023-08-11,Electronics,West,Website,Male,48.0,399.21,4,5,1517.0,5.0,1,0
+ORD-11069,2023-09-26,Home & Kitchen,North,Website,Male,67.0,262.38,4,20,839.62,5.0,6,0
+ORD-11070,2023-01-13,Electronics,Central,Website,Male,53.0,346.79,3,5,988.35,1.0,8,1
+ORD-11071,2023-03-19,Beauty,West,Website,Male,49.0,45.51,1,0,45.51,5.0,13,0
+ORD-11072,2023-11-14,Home & Kitchen,East,Mobile App,Female,41.0,80.3,1,0,80.3,4.0,5,0
+ORD-11073,2023-08-05,Books,West,Website,Male,34.0,25.32,2,0,50.64,5.0,4,0
+ORD-11074,2023-01-05,Clothing,East,Website,Male,41.0,90.12,1,10,81.11,5.0,14,0
+ORD-11075,2023-06-17,Books,Central,Mobile App,Male,43.0,33.65,1,0,33.65,1.0,2,0
+ORD-11076,2023-12-30,Home & Kitchen,East,Website,Male,44.0,247.16,2,15,420.17,5.0,9,0
+ORD-11077,2023-09-27,Books,West,Website,Female,47.0,26.36,1,10,23.72,4.0,7,0
+ORD-11078,2023-05-29,Home & Kitchen,Central,In-Store,Male,22.0,94.05,3,5,268.04,2.0,8,0
+ORD-11079,2023-04-12,Electronics,South,Mobile App,Female,52.0,471.95,1,10,424.76,4.0,10,0
+ORD-11080,2023-01-26,Clothing,West,Website,Female,47.0,92.45,4,10,332.82,4.0,4,0
+ORD-11081,2023-08-17,Home & Kitchen,West,Website,Other,44.0,76.57,3,0,229.71,4.0,12,1
+ORD-11082,2023-02-24,Clothing,East,Mobile App,Female,69.0,110.89,2,20,177.42,4.0,6,0
+ORD-11083,2023-01-29,Beauty,North,Website,Female,56.0,92.79,1,0,92.79,5.0,13,0
+ORD-11084,2023-01-17,Books,South,Mobile App,Male,50.0,28.86,2,0,57.72,4.0,2,0
+ORD-11085,2023-07-06,Clothing,South,In-Store,Female,26.0,97.72,1,10,87.95,4.0,4,0
+ORD-11086,2023-08-04,Sports,East,Website,Female,33.0,163.98,1,15,139.38,5.0,3,0
+ORD-11087,2023-06-07,Clothing,South,Mobile App,Male,25.0,119.15,2,5,226.38,5.0,5,0
+ORD-11088,2023-01-14,Books,South,Social Media,Male,45.0,37.81,1,10,34.03,5.0,9,0
+ORD-11089,2023-05-05,Home & Kitchen,South,In-Store,Male,65.0,93.63,1,5,88.95,4.0,7,0
+ORD-11090,2023-12-03,Sports,North,Mobile App,Male,32.0,74.66,1,5,70.93,4.0,2,0
+ORD-11091,2023-07-16,Electronics,Central,Website,Male,42.0,418.34,4,15,1422.36,,5,0
+ORD-11092,2023-05-03,Sports,North,Social Media,Female,43.0,126.23,1,20,100.98,4.0,1,0
+ORD-11093,2023-07-30,Books,East,Social Media,Female,18.0,23.62,2,0,47.24,4.0,4,0
+ORD-11094,2023-03-31,Clothing,West,In-Store,Female,22.0,47.32,2,25,70.98,2.0,9,0
+ORD-11095,2023-10-02,Clothing,South,Website,Female,62.0,139.97,2,10,251.95,4.0,5,0
+ORD-11096,2023-11-02,Beauty,South,Mobile App,Female,64.0,85.37,3,5,243.3,3.0,10,0
+ORD-11097,2023-03-30,Beauty,South,In-Store,Female,19.0,74.65,1,15,63.45,4.0,1,0
+ORD-11098,2023-11-29,Books,West,Mobile App,Female,62.0,43.97,1,25,32.98,4.0,4,0
+ORD-11099,2023-09-19,Clothing,North,Social Media,Male,66.0,127.45,3,10,344.12,3.0,14,0
+ORD-11100,2023-10-24,Beauty,Central,Mobile App,Male,50.0,90.58,1,25,67.94,2.0,3,0
+ORD-11101,2023-09-28,Electronics,East,Website,Female,52.0,292.24,1,20,233.79,4.0,1,0
+ORD-11102,2023-12-28,Electronics,West,Website,Male,43.0,347.01,2,10,624.62,5.0,1,0
+ORD-11103,2023-11-03,Books,West,Social Media,Male,,53.91,1,0,53.91,3.0,12,0
+ORD-11104,2023-06-07,Books,Central,Social Media,Male,47.0,32.1,1,5,30.5,3.0,10,0
+ORD-11105,2023-08-14,Electronics,West,Social Media,Female,67.0,286.96,1,10,258.26,5.0,7,0
+ORD-11106,2023-02-20,Electronics,North,Website,Female,39.0,592.07,1,0,592.07,4.0,11,1
+ORD-11107,2023-03-11,Electronics,Central,Website,Female,53.0,475.19,1,0,475.19,3.0,2,0
+ORD-11108,2023-09-11,Electronics,East,Mobile App,Female,71.0,363.9,2,0,727.8,2.0,11,0
+ORD-11109,2023-07-30,Electronics,Central,Website,Male,23.0,404.56,2,0,809.12,4.0,12,0
+ORD-11110,2023-07-13,Electronics,Central,Social Media,Male,21.0,609.06,2,25,913.59,5.0,1,0
+ORD-11111,2023-08-03,Electronics,West,Mobile App,Female,52.0,368.2,2,20,589.12,2.0,6,1
+ORD-11112,2023-04-06,Clothing,West,In-Store,Female,47.0,132.57,3,0,397.71,5.0,11,0
+ORD-11113,2023-02-20,Electronics,West,Mobile App,Male,65.0,302.12,1,15,256.8,4.0,4,0
+ORD-11114,2023-05-15,Home & Kitchen,North,Mobile App,Female,32.0,224.74,1,5,213.5,4.0,4,1
+ORD-11115,2023-10-18,Clothing,Central,Social Media,Male,65.0,63.44,2,0,126.88,5.0,11,0
+ORD-11116,2023-04-27,Electronics,West,Website,Female,42.0,749.61,1,20,599.69,4.0,11,0
+ORD-11117,2023-05-06,Home & Kitchen,Central,Mobile App,Male,59.0,76.0,1,10,68.4,3.0,12,0
+ORD-11118,2023-12-22,Sports,North,Mobile App,Other,60.0,72.2,1,15,61.37,5.0,11,0
+ORD-11119,2023-07-13,Clothing,South,In-Store,Male,38.0,42.25,2,0,84.5,3.0,3,0
+ORD-11120,2023-08-16,Electronics,East,In-Store,Female,70.0,670.5,2,10,1206.9,5.0,1,0
+ORD-11121,2023-05-26,Home & Kitchen,Central,Mobile App,Female,66.0,136.45,1,15,115.98,4.0,6,0
+ORD-11122,2023-04-01,Home & Kitchen,West,Website,Female,31.0,153.69,3,15,391.91,4.0,3,0
+ORD-11123,2023-03-15,Sports,South,Website,Male,70.0,79.69,2,15,135.47,3.0,7,0
+ORD-11124,2023-12-22,Home & Kitchen,Central,Website,Male,41.0,134.84,2,10,242.71,5.0,7,0
+ORD-11125,2023-02-26,Books,East,Mobile App,Female,22.0,51.74,1,0,51.74,4.0,8,0
+ORD-11126,2023-07-30,Clothing,North,Website,Male,65.0,112.74,2,0,225.48,5.0,7,0
+ORD-11127,2023-10-21,Electronics,East,Mobile App,Male,45.0,415.46,1,10,373.91,4.0,14,0
+ORD-11128,2023-07-18,Electronics,West,Social Media,Male,71.0,225.83,1,10,203.25,4.0,10,0
+ORD-11129,2023-01-03,Sports,East,In-Store,Female,39.0,60.93,1,15,51.79,4.0,10,0
+ORD-11130,2023-11-16,Books,North,Mobile App,Female,57.0,29.7,1,10,26.73,3.0,1,0
+ORD-11131,2023-11-27,Clothing,Central,Social Media,Female,29.0,68.33,2,10,122.99,4.0,7,0
+ORD-11132,2023-04-20,Electronics,Central,Social Media,Male,50.0,574.17,2,20,918.67,3.0,10,0
+ORD-11133,2023-11-19,Clothing,South,In-Store,Male,63.0,101.37,3,0,304.11,5.0,2,0
+ORD-11134,2023-11-07,Home & Kitchen,North,Website,Female,20.0,103.2,1,0,103.2,3.0,14,0
+ORD-11135,2023-05-19,Electronics,East,Social Media,Female,65.0,487.67,1,25,365.75,4.0,4,0
+ORD-11136,2023-03-22,Electronics,East,In-Store,Male,20.0,648.51,1,15,551.23,4.0,12,0
+ORD-11137,2023-01-24,Clothing,North,Mobile App,Female,48.0,44.24,1,5,42.03,4.0,8,0
+ORD-11138,2023-10-13,Clothing,South,Mobile App,Female,63.0,74.95,2,10,134.91,4.0,2,0
+ORD-11139,2023-06-23,Home & Kitchen,Central,Website,Male,42.0,124.12,5,10,558.54,3.0,8,0
+ORD-11140,2023-01-25,Books,North,Website,Female,54.0,47.92,2,0,95.84,3.0,7,0
+ORD-11141,2023-09-20,Books,North,Mobile App,Male,42.0,34.01,3,20,81.62,3.0,10,0
+ORD-11142,2023-04-06,Beauty,East,Mobile App,Male,66.0,80.19,1,0,80.19,4.0,10,0
+ORD-11143,2023-01-15,Sports,East,Mobile App,Female,67.0,140.77,1,20,112.62,5.0,3,0
+ORD-11144,2023-06-28,Electronics,East,In-Store,Female,23.0,679.99,3,0,2039.97,5.0,9,0
+ORD-11145,2023-09-10,Electronics,West,Website,Male,66.0,359.84,1,0,359.84,5.0,12,0
+ORD-11146,2023-06-07,Clothing,West,Website,Male,33.0,118.31,2,5,224.79,2.0,10,1
+ORD-11147,2023-06-16,Electronics,North,Website,Female,18.0,628.35,4,15,2136.39,2.0,1,0
+ORD-11148,2023-05-27,Home & Kitchen,East,Mobile App,Male,43.0,76.06,1,10,68.45,5.0,3,0
+ORD-11149,2023-10-18,Home & Kitchen,West,Website,Male,25.0,163.31,1,20,130.65,4.0,9,0
+ORD-11150,2023-05-07,Clothing,North,Website,Female,46.0,108.21,4,0,432.84,4.0,2,0
+ORD-11151,2023-08-29,Beauty,West,Website,Male,70.0,71.43,4,0,285.72,5.0,10,0
+ORD-11152,2023-10-27,Books,South,Website,Female,32.0,51.17,1,15,43.49,4.0,1,0
+ORD-11153,2023-01-03,Electronics,Central,Social Media,Other,52.0,346.26,1,25,259.7,3.0,12,0
+ORD-11154,2023-12-16,Home & Kitchen,North,Mobile App,Male,28.0,200.86,5,15,853.66,1.0,14,0
+ORD-11155,2023-11-30,Home & Kitchen,East,Social Media,Female,48.0,191.51,4,0,766.04,5.0,9,0
+ORD-11156,2023-09-09,Home & Kitchen,South,Mobile App,Male,70.0,168.96,4,5,642.05,3.0,3,0
+ORD-11157,2023-06-09,Beauty,East,Social Media,Male,20.0,79.82,2,0,159.64,4.0,13,0
+ORD-11158,2023-12-04,Beauty,East,Website,Male,66.0,51.4,1,20,41.12,5.0,8,0
+ORD-11159,2023-08-08,Clothing,South,Mobile App,Female,25.0,,4,5,414.16,4.0,5,1
+ORD-11160,2023-01-03,Clothing,North,Website,Female,56.0,88.09,2,5,167.37,4.0,13,0
+ORD-11161,2023-09-22,Electronics,Central,In-Store,Male,41.0,408.77,2,10,735.79,5.0,5,0
+ORD-11162,2023-01-14,Clothing,Central,Website,Male,40.0,62.7,2,0,125.4,5.0,11,0
+ORD-11163,2023-07-26,Electronics,West,Mobile App,Male,30.0,526.31,2,15,894.73,2.0,7,0
+ORD-11164,2023-05-13,Electronics,Central,Website,Male,18.0,706.82,2,0,1413.64,1.0,14,0
+ORD-11165,2023-02-14,Sports,South,Website,Male,45.0,72.82,2,0,145.64,5.0,6,0
+ORD-11166,2023-08-22,Electronics,East,Social Media,Female,66.0,701.76,3,0,2105.28,4.0,6,0
+ORD-11167,2023-11-25,Electronics,Central,In-Store,Male,34.0,257.34,3,0,772.02,2.0,6,0
+ORD-11168,2023-11-23,Home & Kitchen,East,In-Store,Female,39.0,262.04,1,10,235.84,4.0,13,1
+ORD-11169,2023-07-18,Books,East,Social Media,Male,43.0,33.74,3,10,91.1,2.0,13,0
+ORD-11170,2023-04-06,Clothing,South,Social Media,Male,71.0,,2,0,165.22,3.0,3,0
+ORD-11171,2023-08-05,Sports,East,Website,Male,36.0,157.04,1,0,157.04,4.0,9,0
+ORD-11172,2023-11-01,Electronics,East,Website,Female,54.0,275.83,1,10,248.25,4.0,7,0
+ORD-11173,2023-01-26,Electronics,West,Mobile App,Male,70.0,246.97,2,15,419.85,4.0,3,0
+ORD-11174,2023-10-25,Books,East,Social Media,Male,69.0,48.54,1,5,46.11,5.0,14,0
+ORD-11175,2023-06-19,Electronics,North,Website,Male,26.0,331.62,2,10,596.92,5.0,12,0
+ORD-11176,2023-08-06,Home & Kitchen,South,In-Store,Female,44.0,142.01,1,5,134.91,4.0,13,0
+ORD-11177,2023-01-15,Beauty,North,Website,Male,71.0,87.11,2,15,148.09,4.0,8,0
+ORD-11178,2023-09-27,Sports,East,Website,Male,62.0,128.93,1,10,116.04,3.0,4,0
+ORD-11179,2023-10-23,Sports,East,Website,Female,38.0,143.09,3,5,407.81,5.0,3,0
+ORD-11180,2023-11-25,Electronics,Central,Mobile App,Female,70.0,763.29,3,15,1946.39,3.0,12,0
+ORD-11181,2023-05-24,Clothing,West,Social Media,Male,24.0,61.68,1,0,61.68,4.0,3,0
+ORD-11182,2023-03-13,Beauty,North,Social Media,Female,33.0,60.26,1,15,51.22,3.0,5,0
+ORD-11183,2023-08-18,Sports,North,Website,Female,31.0,50.38,1,5,47.86,5.0,3,0
+ORD-11184,2023-04-02,Books,East,Social Media,Male,38.0,50.64,3,5,144.32,3.0,13,0
+ORD-11185,2023-07-21,Home & Kitchen,South,Website,Male,31.0,243.59,4,5,925.64,5.0,4,0
+ORD-11186,2023-11-10,Clothing,West,Website,Male,51.0,117.28,1,10,105.55,4.0,13,0
+ORD-11187,2023-11-10,Clothing,East,Mobile App,Female,34.0,61.0,1,10,54.9,5.0,6,0
+ORD-11188,2023-03-22,Electronics,North,Website,Male,25.0,596.44,2,0,1192.88,5.0,3,0
+ORD-11189,2023-12-26,Beauty,North,Social Media,Male,63.0,63.72,1,10,57.35,4.0,6,0
+ORD-11190,2023-04-21,Clothing,East,Website,Female,46.0,87.95,4,10,316.62,1.0,12,0
+ORD-11191,2023-07-22,Beauty,North,Social Media,Female,48.0,58.52,5,10,263.34,5.0,8,0
+ORD-11192,2023-12-20,Electronics,North,Website,Male,68.0,218.72,3,0,656.16,5.0,5,1
+ORD-11193,2023-10-28,Sports,East,In-Store,Male,52.0,68.7,2,0,137.4,5.0,6,0
+ORD-11194,2023-12-08,Books,East,Website,Female,34.0,16.9,1,10,15.21,4.0,4,0
+ORD-11195,2023-05-27,Electronics,South,Social Media,Male,27.0,618.5,1,0,618.5,3.0,5,0
+ORD-11196,2023-01-30,Home & Kitchen,South,In-Store,Female,42.0,246.71,1,0,246.71,4.0,4,0
+ORD-11197,2023-11-23,Home & Kitchen,South,Mobile App,Female,33.0,99.75,2,5,189.52,3.0,7,0
+ORD-11198,2023-04-23,Home & Kitchen,East,In-Store,Male,25.0,228.52,2,15,388.48,3.0,13,0
+ORD-11199,2023-04-20,Home & Kitchen,North,In-Store,Male,69.0,109.38,2,5,207.82,5.0,7,0
+ORD-11200,2023-10-24,Home & Kitchen,North,Social Media,Male,52.0,94.69,1,10,85.22,5.0,11,0
+ORD-11201,2023-06-22,Home & Kitchen,West,In-Store,Male,23.0,130.95,2,0,261.9,3.0,1,0
+ORD-11202,2023-03-31,Clothing,Central,Social Media,Female,44.0,122.37,1,0,122.37,4.0,3,0
+ORD-11203,2023-07-31,Beauty,South,Mobile App,Female,36.0,32.9,4,20,105.28,4.0,10,0
+ORD-11204,2023-08-10,Books,East,In-Store,Female,18.0,22.08,1,10,19.87,5.0,2,0
+ORD-11205,2023-04-10,Clothing,West,Mobile App,Female,30.0,124.79,1,15,106.07,3.0,14,0
+ORD-11206,2023-02-15,Beauty,Central,Social Media,Male,38.0,32.83,1,10,29.55,5.0,10,0
+ORD-11207,2023-04-28,Clothing,North,Website,Male,26.0,127.83,1,5,121.44,5.0,6,0
+ORD-11208,2023-10-03,Clothing,South,In-Store,Female,60.0,131.67,1,5,125.09,4.0,1,0
+ORD-11209,2023-11-05,Home & Kitchen,East,Website,Female,27.0,188.31,1,5,178.89,5.0,2,0
+ORD-11210,2023-07-16,Sports,North,In-Store,Male,69.0,88.18,1,0,88.18,5.0,10,0
+ORD-11211,2023-03-06,Clothing,West,Website,Male,,103.19,3,10,278.61,4.0,9,0
+ORD-11212,2023-11-20,Electronics,North,Website,Female,48.0,610.76,1,0,610.76,4.0,6,0
+ORD-11213,2023-05-18,Books,East,In-Store,Male,21.0,20.69,1,10,18.62,4.0,10,0
+ORD-11214,2023-03-31,Books,West,Mobile App,Male,29.0,18.22,1,25,13.66,4.0,7,0
+ORD-11215,2023-10-22,Home & Kitchen,Central,In-Store,Male,50.0,149.67,5,15,636.1,4.0,4,0
+ORD-11216,2023-12-13,Clothing,North,Mobile App,Female,36.0,98.07,4,15,333.44,5.0,14,0
+ORD-11217,2023-09-03,Sports,West,Website,Female,64.0,169.72,1,5,161.23,4.0,14,0
+ORD-11218,2023-04-29,Home & Kitchen,South,In-Store,Male,68.0,234.71,1,5,222.97,4.0,6,0
+ORD-11219,2023-05-28,Sports,North,Website,Male,40.0,134.64,5,20,538.56,2.0,13,0
+ORD-11220,2023-09-03,Home & Kitchen,Central,Mobile App,Male,66.0,235.58,1,25,176.68,3.0,12,1
+ORD-11221,2023-06-07,Home & Kitchen,West,Mobile App,Male,53.0,143.8,2,0,287.6,4.0,13,0
+ORD-11222,2023-08-29,Books,Central,Mobile App,Male,69.0,51.04,3,10,137.81,4.0,10,1
+ORD-11223,2023-03-16,Sports,West,Website,Male,45.0,147.29,1,20,117.83,3.0,12,0
+ORD-11224,2023-01-02,Electronics,South,Website,Female,41.0,392.26,1,15,333.42,5.0,6,0
+ORD-11225,2023-03-20,Home & Kitchen,Central,Mobile App,Male,68.0,189.72,1,10,170.75,5.0,1,0
+ORD-11226,2023-03-25,Sports,East,In-Store,Male,56.0,98.11,1,10,88.3,3.0,3,0
+ORD-11227,2023-12-22,Home & Kitchen,East,Website,Female,38.0,137.87,2,5,261.95,3.0,4,0
+ORD-11228,2023-06-02,Electronics,Central,Mobile App,Female,43.0,740.34,1,10,666.31,5.0,4,0
+ORD-11229,2023-02-22,Clothing,South,Website,Female,55.0,117.17,1,0,117.17,4.0,7,0
+ORD-11230,2023-05-11,Beauty,East,Mobile App,Female,48.0,67.45,4,0,269.8,4.0,1,0
+ORD-11231,2023-07-30,Home & Kitchen,East,Website,Male,23.0,246.81,3,0,740.43,4.0,5,0
+ORD-11232,2023-04-08,Electronics,North,Mobile App,Male,28.0,,2,0,1451.8,4.0,7,0
+ORD-11233,2023-02-04,Books,North,In-Store,Male,31.0,19.25,3,15,49.09,4.0,11,1
+ORD-11234,2023-10-25,Sports,West,Mobile App,Male,70.0,61.05,3,15,155.68,1.0,10,0
+ORD-11235,2023-03-16,Sports,West,Mobile App,Male,19.0,171.09,1,0,171.09,5.0,7,0
+ORD-11236,2023-07-04,Books,Central,Website,Female,33.0,22.26,1,15,18.92,4.0,7,0
+ORD-11237,2023-03-23,Electronics,West,In-Store,Female,38.0,395.63,3,0,1186.89,4.0,13,0
+ORD-11238,2023-10-20,Electronics,Central,Website,Female,23.0,514.22,3,0,1542.66,4.0,3,0
+ORD-11239,2023-12-04,Electronics,North,Mobile App,Female,68.0,354.6,4,15,1205.64,4.0,3,0
+ORD-11240,2023-06-28,Electronics,West,Website,Female,62.0,759.69,1,20,607.75,2.0,1,0
+ORD-11241,2023-08-18,Electronics,Central,Social Media,Female,19.0,478.77,2,0,957.54,3.0,4,0
+ORD-11242,2023-03-12,Home & Kitchen,East,Social Media,Male,54.0,191.21,2,0,382.42,4.0,10,0
+ORD-11243,2023-04-18,Home & Kitchen,North,Website,Male,35.0,241.2,3,20,578.88,4.0,10,0
+ORD-11244,2023-12-22,Clothing,Central,Mobile App,Female,70.0,81.94,1,25,61.46,5.0,4,0
+ORD-11245,2023-05-15,Sports,East,Website,Female,51.0,149.89,2,5,284.79,5.0,12,1
+ORD-11246,2023-08-22,Electronics,South,Mobile App,Female,48.0,761.91,1,0,761.91,4.0,5,1
+ORD-11247,2023-11-17,Electronics,South,Social Media,Other,54.0,642.31,1,5,610.19,3.0,6,0
+ORD-11248,2023-12-24,Home & Kitchen,Central,Mobile App,Female,60.0,182.66,3,0,547.98,4.0,14,0
+ORD-11249,2023-03-02,Books,South,Website,Female,26.0,45.63,1,0,45.63,4.0,14,0
+ORD-11250,2023-08-02,Electronics,Central,Social Media,Male,18.0,229.09,5,20,916.36,4.0,7,0
+ORD-11251,2023-01-02,Beauty,South,Mobile App,Female,47.0,94.87,1,0,94.87,2.0,10,0
+ORD-11252,2023-02-15,Home & Kitchen,West,Website,Male,40.0,197.43,2,20,315.89,3.0,7,0
+ORD-11253,2023-02-15,Home & Kitchen,Central,Mobile App,Female,44.0,84.01,1,0,84.01,4.0,8,1
+ORD-11254,2023-02-26,Clothing,South,Website,Male,54.0,85.25,2,25,127.88,3.0,12,0
+ORD-11255,2023-09-02,Home & Kitchen,West,Social Media,Male,26.0,186.48,1,0,186.48,1.0,9,0
+ORD-11256,2023-01-27,Electronics,North,Mobile App,Female,70.0,348.88,3,0,1046.64,4.0,4,0
+ORD-11257,2023-09-02,Clothing,West,Mobile App,Female,21.0,53.48,1,0,53.48,5.0,9,0
+ORD-11258,2023-03-07,Home & Kitchen,West,In-Store,Female,70.0,201.9,1,5,191.8,4.0,4,0
+ORD-11259,2023-12-13,Books,South,Mobile App,Male,24.0,53.54,4,10,192.74,4.0,6,0
+ORD-11260,2023-05-28,Books,South,Website,Female,62.0,34.08,1,0,34.08,5.0,2,0
+ORD-11261,2023-11-11,Electronics,West,Website,Male,21.0,609.49,1,0,609.49,4.0,10,0
+ORD-11262,2023-09-26,Clothing,North,Website,Female,42.0,64.38,1,0,64.38,4.0,9,0
+ORD-11263,2023-03-16,Beauty,South,In-Store,Female,70.0,87.28,3,0,261.84,4.0,14,0
+ORD-11264,2023-12-12,Beauty,East,Mobile App,Male,24.0,98.31,4,15,334.25,5.0,9,0
+ORD-11265,2023-10-11,Sports,West,Mobile App,Male,25.0,132.12,3,0,396.36,5.0,10,0
+ORD-11266,2023-04-18,Electronics,South,Website,Female,62.0,461.88,3,20,1108.51,5.0,2,0
+ORD-11267,2023-03-28,Electronics,East,Website,Male,71.0,284.47,1,20,227.58,4.0,1,0
+ORD-11268,2023-08-16,Electronics,North,Website,Male,46.0,722.43,3,10,1950.56,4.0,12,0
+ORD-11269,2023-11-19,Sports,South,Mobile App,Male,19.0,92.52,1,25,69.39,4.0,6,0
+ORD-11270,2023-05-12,Electronics,Central,In-Store,Male,57.0,690.84,5,10,3108.78,5.0,14,0
+ORD-11271,2023-08-24,Electronics,Central,Mobile App,Male,28.0,227.48,1,10,204.73,5.0,3,1
+ORD-11272,2023-03-17,Clothing,West,In-Store,Male,64.0,80.35,2,0,160.7,3.0,4,0
+ORD-11273,2023-03-21,Home & Kitchen,Central,Mobile App,Female,40.0,225.12,4,20,720.38,3.0,6,0
+ORD-11274,2023-08-12,Books,East,Website,Female,58.0,20.9,2,0,41.8,5.0,14,0
+ORD-11275,2023-08-22,Sports,North,Website,Male,49.0,56.21,2,5,106.8,5.0,7,0
+ORD-11276,2023-07-12,Electronics,Central,In-Store,Female,27.0,377.11,1,15,320.54,5.0,4,0
+ORD-11277,2023-01-05,Electronics,North,Social Media,Female,43.0,610.43,2,15,1037.73,2.0,1,0
+ORD-11278,2023-07-15,Sports,West,Social Media,Male,66.0,100.08,2,10,180.14,3.0,9,0
+ORD-11279,2023-08-23,Electronics,Central,Website,Female,63.0,551.79,1,0,551.79,5.0,6,0
+ORD-11280,2023-05-29,Home & Kitchen,West,In-Store,Female,64.0,205.85,2,20,329.36,5.0,5,0
+ORD-11281,2023-10-21,Home & Kitchen,West,In-Store,Male,56.0,87.58,2,0,175.16,4.0,7,0
+ORD-11282,2023-05-17,Electronics,North,In-Store,Male,65.0,301.54,1,20,241.23,3.0,7,0
+ORD-11283,2023-08-14,Clothing,South,In-Store,Male,50.0,79.22,1,15,67.34,5.0,10,0
+ORD-11284,2023-06-01,Home & Kitchen,North,Social Media,Female,45.0,112.55,4,15,382.67,5.0,3,0
+ORD-11285,2023-01-27,Electronics,North,Website,Male,20.0,600.74,2,0,1201.48,4.0,2,0
+ORD-11286,2023-06-29,Beauty,East,In-Store,Female,22.0,48.4,2,20,77.44,5.0,4,0
+ORD-11287,2023-12-15,Electronics,West,Mobile App,Male,56.0,563.49,2,5,1070.63,4.0,11,0
+ORD-11288,2023-12-29,Electronics,West,In-Store,Female,57.0,606.32,3,20,1455.17,4.0,14,0
+ORD-11289,2023-08-06,Home & Kitchen,North,Social Media,Male,66.0,218.11,1,10,196.3,5.0,7,0
+ORD-11290,2023-06-12,Electronics,East,Social Media,Male,37.0,673.63,1,25,505.22,4.0,7,0
+ORD-11291,2023-12-23,Beauty,West,In-Store,Male,54.0,74.63,1,20,59.7,4.0,4,0
+ORD-11292,2023-11-30,Clothing,East,Social Media,Female,57.0,75.2,2,0,150.4,1.0,7,1
+ORD-11293,2023-11-27,Electronics,South,Website,Male,20.0,226.9,1,10,204.21,3.0,4,0
+ORD-11294,2023-09-20,Electronics,West,Website,Male,45.0,382.35,1,10,344.12,4.0,2,0
+ORD-11295,2023-05-02,Books,Central,Mobile App,Male,45.0,43.28,3,25,97.38,3.0,11,0
+ORD-11296,2023-06-19,Sports,East,In-Store,Male,39.0,172.75,1,20,138.2,4.0,1,0
+ORD-11297,2023-02-16,Clothing,West,In-Store,Female,64.0,42.69,2,10,76.84,4.0,10,0
+ORD-11298,2023-02-19,Clothing,North,In-Store,Female,56.0,58.98,5,20,235.92,4.0,4,0
+ORD-11299,2023-09-30,Books,North,Website,Female,18.0,20.07,2,25,30.1,2.0,14,0
+ORD-11300,2023-08-09,Home & Kitchen,Central,In-Store,Female,54.0,96.81,1,15,82.29,3.0,13,0
+ORD-11301,2023-05-05,Home & Kitchen,East,Mobile App,Other,45.0,108.79,4,0,435.16,3.0,1,0
+ORD-11302,2023-09-23,Clothing,East,Website,Female,21.0,90.78,5,0,453.9,4.0,11,0
+ORD-11303,2023-03-17,Clothing,North,Mobile App,Female,22.0,78.67,1,5,74.74,5.0,9,0
+ORD-11304,2023-04-23,Sports,Central,In-Store,Female,71.0,171.99,2,5,326.78,3.0,11,0
+ORD-11305,2023-04-03,Beauty,South,Website,Female,49.0,28.37,2,10,51.07,4.0,10,0
+ORD-11306,2023-03-18,Clothing,East,Social Media,Male,60.0,126.54,2,5,240.43,5.0,14,0
+ORD-11307,2023-07-08,Beauty,South,Website,Female,31.0,68.02,2,0,136.04,5.0,10,0
+ORD-11308,2023-12-10,Electronics,East,Website,Male,67.0,347.94,1,5,330.54,1.0,13,0
+ORD-11309,2023-04-24,Sports,North,Mobile App,Female,44.0,151.21,2,0,302.42,5.0,6,0
+ORD-11310,2023-08-21,Beauty,Central,In-Store,Female,56.0,95.43,1,5,90.66,3.0,7,0
+ORD-11311,2023-12-01,Books,North,In-Store,Female,33.0,15.29,3,5,43.58,5.0,12,0
+ORD-11312,2023-04-16,Home & Kitchen,North,Social Media,Female,56.0,257.71,1,0,257.71,4.0,3,0
+ORD-11313,2023-01-18,Electronics,South,Website,Female,19.0,243.26,2,0,486.52,,8,0
+ORD-11314,2023-04-21,Sports,East,Website,Male,25.0,64.29,1,0,64.29,1.0,4,0
+ORD-11315,2023-03-12,Home & Kitchen,East,Website,Other,42.0,145.32,3,0,435.96,1.0,13,0
+ORD-11316,2023-10-01,Books,West,Website,Male,18.0,20.14,1,0,20.14,3.0,3,0
+ORD-11317,2023-02-19,Books,South,Mobile App,Female,39.0,25.85,1,10,23.26,5.0,13,0
+ORD-11318,2023-06-05,Electronics,East,Social Media,Female,30.0,554.75,1,15,471.54,4.0,12,0
+ORD-11319,2023-06-26,Sports,Central,In-Store,Male,26.0,157.55,1,10,141.8,4.0,3,0
+ORD-11320,2023-04-09,Books,North,Website,Male,64.0,24.41,2,10,43.94,5.0,9,0
+ORD-11321,2023-11-09,Home & Kitchen,East,Social Media,Male,60.0,236.95,2,5,450.2,4.0,9,0
+ORD-11322,2023-06-14,Electronics,West,Mobile App,Male,66.0,733.31,1,15,623.31,3.0,11,0
+ORD-11323,2023-10-18,Home & Kitchen,Central,Website,Male,44.0,,1,20,106.93,5.0,3,0
+ORD-11324,2023-10-28,Electronics,West,Website,Male,21.0,602.43,2,0,1204.86,4.0,4,0
+ORD-11325,2023-03-30,Home & Kitchen,East,Mobile App,Female,32.0,101.27,1,10,91.14,3.0,4,0
+ORD-11326,2023-10-18,Electronics,East,Website,Male,61.0,361.22,2,5,686.32,4.0,7,0
+ORD-11327,2023-03-15,Electronics,North,Website,Male,23.0,664.74,3,25,1495.66,4.0,13,0
+ORD-11328,2023-11-14,Electronics,South,Mobile App,Male,44.0,240.25,1,10,216.22,3.0,1,1
+ORD-11329,2023-04-13,Clothing,North,Mobile App,Female,23.0,118.85,2,10,213.93,2.0,1,0
+ORD-11330,2023-03-09,Sports,West,Social Media,Male,47.0,173.53,2,0,347.06,5.0,11,0
+ORD-11331,2023-07-26,Electronics,West,Website,Female,29.0,628.99,3,25,1415.23,4.0,7,0
+ORD-11332,2023-06-25,Books,North,Social Media,Female,23.0,47.2,2,0,94.4,4.0,6,1
+ORD-11333,2023-04-20,Electronics,East,Mobile App,Male,23.0,232.62,2,10,418.72,2.0,5,0
+ORD-11334,2023-10-15,Clothing,West,Website,Male,49.0,47.93,3,0,143.79,5.0,4,0
+ORD-11335,2023-05-14,Clothing,East,Website,Female,34.0,89.1,2,0,178.2,5.0,12,0
+ORD-11336,2023-11-28,Electronics,Central,Mobile App,Female,49.0,525.82,1,0,525.82,4.0,13,0
+ORD-11337,2023-05-27,Books,West,Mobile App,Female,69.0,44.96,4,25,134.88,5.0,14,0
+ORD-11338,2023-12-22,Clothing,Central,Mobile App,Male,30.0,67.08,2,10,120.74,3.0,9,0
+ORD-11339,2023-10-17,Clothing,East,In-Store,Male,18.0,41.83,3,10,112.94,4.0,5,0
+ORD-11340,2023-11-02,Home & Kitchen,South,Website,Male,40.0,151.81,1,0,151.81,4.0,5,0
+ORD-11341,2023-02-08,Electronics,West,Website,Female,24.0,695.9,2,15,1183.03,2.0,11,0
+ORD-11342,2023-05-09,Beauty,West,Social Media,Female,61.0,59.23,2,10,106.61,5.0,3,0
+ORD-11343,2023-11-13,Electronics,Central,In-Store,Male,22.0,261.41,3,15,666.6,4.0,14,0
+ORD-11344,2023-11-29,Beauty,Central,Website,Female,52.0,72.58,1,10,65.32,4.0,1,0
+ORD-11345,2023-12-06,Electronics,North,Mobile App,Male,19.0,553.14,5,10,2489.13,3.0,12,0
+ORD-11346,2023-08-15,Beauty,North,Mobile App,Male,51.0,61.89,1,0,61.89,2.0,9,0
+ORD-11347,2023-12-15,Electronics,East,Website,Female,55.0,733.51,4,5,2787.34,4.0,7,0
+ORD-11348,2023-04-21,Electronics,West,Website,Male,37.0,731.34,4,5,2779.09,4.0,13,0
+ORD-11349,2023-11-17,Electronics,East,Website,Female,71.0,223.77,3,15,570.61,4.0,8,0
+ORD-11350,2023-11-15,Home & Kitchen,North,Website,Male,51.0,234.02,1,5,222.32,3.0,9,0
+ORD-11351,2023-12-09,Electronics,Central,Mobile App,Female,47.0,560.53,3,15,1429.35,5.0,7,0
+ORD-11352,2023-12-20,Clothing,South,Website,Female,26.0,112.86,2,15,191.86,5.0,7,0
+ORD-11353,2023-12-28,Home & Kitchen,East,Mobile App,Female,48.0,120.88,2,0,241.76,5.0,5,0
+ORD-11354,2023-06-14,Electronics,West,Mobile App,Male,61.0,670.5,2,0,1341.0,5.0,1,0
+ORD-11355,2023-08-05,Books,South,Mobile App,Female,64.0,54.38,4,10,195.77,3.0,1,1
+ORD-11356,2023-05-20,Clothing,East,Social Media,Female,46.0,104.45,1,5,99.23,5.0,6,0
+ORD-11357,2023-05-22,Electronics,East,Website,Female,27.0,266.51,4,15,906.13,4.0,5,0
+ORD-11358,2023-12-04,Beauty,Central,Website,Male,58.0,74.34,1,0,74.34,5.0,14,0
+ORD-11359,2023-02-04,Clothing,Central,In-Store,Female,35.0,132.78,3,15,338.59,4.0,11,1
+ORD-11360,2023-08-14,Clothing,West,Mobile App,Female,61.0,125.66,1,0,125.66,4.0,7,0
+ORD-11361,2023-07-26,Home & Kitchen,East,Website,Female,36.0,173.23,5,0,866.15,5.0,10,0
+ORD-11362,2023-08-09,Sports,West,Website,Male,62.0,72.68,1,15,61.78,3.0,6,1
+ORD-11363,2023-04-01,Electronics,Central,Website,Male,36.0,291.03,1,15,247.38,3.0,9,0
+ORD-11364,2023-10-11,Electronics,Central,Social Media,Male,67.0,538.73,1,10,484.86,2.0,8,0
+ORD-11365,2023-06-20,Beauty,Central,Mobile App,Female,20.0,34.4,1,25,25.8,5.0,7,0
+ORD-11366,2023-02-15,Clothing,West,Mobile App,Female,59.0,85.48,3,25,192.33,2.0,3,0
+ORD-11367,2023-08-19,Books,North,Mobile App,Female,37.0,52.23,1,10,47.01,4.0,13,0
+ORD-11368,2023-05-31,Clothing,South,In-Store,Female,40.0,95.96,5,15,407.83,4.0,3,0
+ORD-11369,2023-11-20,Sports,South,Mobile App,Female,23.0,86.55,3,15,220.7,3.0,14,1
+ORD-11370,2023-12-21,Clothing,North,Mobile App,Female,22.0,59.34,1,10,53.41,3.0,7,0
+ORD-11371,2023-01-28,Home & Kitchen,South,In-Store,Male,71.0,212.89,2,0,425.78,5.0,2,0
+ORD-11372,2023-01-27,Books,East,Website,Female,20.0,18.1,2,15,30.77,3.0,6,0
+ORD-11373,2023-05-23,Electronics,West,Website,Male,19.0,284.29,4,15,966.59,1.0,2,1
+ORD-11374,2023-10-07,Books,East,Social Media,Male,31.0,38.98,3,0,116.94,3.0,5,0
+ORD-11375,2023-09-25,Sports,South,Social Media,Male,61.0,50.03,2,20,80.05,4.0,12,0
+ORD-11376,2023-09-01,Books,Central,Mobile App,Male,24.0,20.14,1,10,18.13,4.0,3,0
+ORD-11377,2023-10-27,Clothing,South,In-Store,Male,47.0,133.46,1,0,133.46,3.0,10,0
+ORD-11378,2023-11-29,Electronics,East,In-Store,Male,70.0,573.61,5,0,2868.05,3.0,1,0
+ORD-11379,2023-10-15,Home & Kitchen,Central,Mobile App,Male,32.0,90.79,1,10,81.71,3.0,9,0
+ORD-11380,2023-08-12,Clothing,West,Website,Female,68.0,122.91,1,5,116.76,4.0,8,1
+ORD-11381,2023-03-09,Clothing,East,Website,Male,57.0,133.3,2,0,266.6,4.0,2,1
+ORD-11382,2023-01-27,Clothing,East,Social Media,Female,18.0,53.0,2,0,106.0,5.0,14,0
+ORD-11383,2023-06-30,Clothing,West,Social Media,Female,69.0,94.27,3,10,254.53,4.0,5,0
+ORD-11384,2023-07-18,Clothing,South,Mobile App,Female,43.0,88.68,4,15,301.51,5.0,5,0
+ORD-11385,2023-03-29,Clothing,West,Social Media,Female,63.0,84.06,1,25,63.04,4.0,7,0
+ORD-11386,2023-10-08,Clothing,South,Mobile App,Male,21.0,105.87,1,0,105.87,4.0,4,0
+ORD-11387,2023-08-28,Electronics,Central,Mobile App,Other,48.0,584.12,1,5,554.91,3.0,9,0
+ORD-11388,2023-09-02,Electronics,North,Website,Male,48.0,288.67,1,5,274.24,3.0,9,0
+ORD-11389,2023-07-25,Clothing,North,Mobile App,Male,31.0,80.09,5,10,360.4,5.0,14,0
+ORD-11390,2023-09-28,Sports,South,Mobile App,Female,66.0,127.14,1,0,127.14,1.0,2,0
+ORD-11391,2023-12-15,Clothing,West,Social Media,Female,40.0,116.32,5,25,436.2,4.0,2,0
+ORD-11392,2023-11-05,Books,North,Social Media,Male,29.0,40.09,1,0,40.09,4.0,1,0
+ORD-11393,2023-07-02,Sports,Central,In-Store,Female,25.0,122.96,1,10,110.66,4.0,13,0
+ORD-11394,2023-05-25,Sports,West,Mobile App,Female,28.0,124.28,2,25,186.42,1.0,5,0
+ORD-11395,2023-03-25,Home & Kitchen,East,Mobile App,Male,51.0,257.51,1,10,231.76,4.0,5,0
+ORD-11396,2023-01-14,Home & Kitchen,South,Social Media,Female,43.0,184.14,2,10,331.45,4.0,1,0
+ORD-11397,2023-07-15,Books,Central,In-Store,Female,21.0,17.93,1,5,17.03,5.0,8,0
+ORD-11398,2023-03-30,Electronics,North,Mobile App,Female,62.0,615.03,3,10,1660.58,5.0,6,0
+ORD-11399,2023-06-26,Electronics,East,Website,Male,42.0,375.27,1,10,337.74,5.0,11,0
+ORD-11400,2023-10-11,Electronics,Central,Social Media,Male,49.0,708.56,1,15,602.28,2.0,6,0
+ORD-11401,2023-01-28,Electronics,West,Website,Male,42.0,247.39,1,15,210.28,5.0,10,0
+ORD-11402,2023-12-24,Home & Kitchen,Central,Mobile App,Male,49.0,220.1,2,15,374.17,2.0,3,0
+ORD-11403,2023-09-29,Home & Kitchen,East,Website,Female,56.0,160.9,5,10,724.05,4.0,2,0
+ORD-11404,2023-03-08,Electronics,West,Social Media,Male,44.0,697.33,1,25,523.0,5.0,8,0
+ORD-11405,2023-04-10,Sports,West,Social Media,Female,35.0,76.09,3,0,228.27,3.0,11,0
+ORD-11406,2023-07-20,Clothing,North,Mobile App,Female,56.0,119.15,5,5,565.96,4.0,6,0
+ORD-11407,2023-04-23,Books,West,In-Store,Other,59.0,25.47,1,0,25.47,5.0,12,0
+ORD-11408,2023-09-20,Electronics,East,Social Media,Female,18.0,625.3,1,10,562.77,5.0,1,0
+ORD-11409,2023-07-17,Sports,East,Social Media,Male,27.0,92.59,1,25,69.44,1.0,12,0
+ORD-11410,2023-11-15,Electronics,East,Website,Male,63.0,377.48,3,15,962.57,5.0,2,0
+ORD-11411,2023-08-24,Electronics,West,Website,Female,66.0,523.97,3,0,1571.91,3.0,9,0
+ORD-11412,2023-05-25,Clothing,South,Website,Female,34.0,96.72,2,20,154.75,5.0,9,1
+ORD-11413,2023-04-08,Books,East,Mobile App,Male,18.0,22.61,3,0,67.83,3.0,7,0
+ORD-11414,2023-04-09,Books,Central,Website,Other,41.0,42.74,1,15,36.33,3.0,10,0
+ORD-11415,2023-05-14,Beauty,East,Website,Female,19.0,62.63,1,10,56.37,4.0,2,0
+ORD-11416,2023-01-29,Electronics,West,Website,Male,63.0,437.83,2,0,875.66,3.0,1,0
+ORD-11417,2023-05-31,Home & Kitchen,West,Social Media,Male,58.0,90.89,5,0,454.45,2.0,7,0
+ORD-11418,2023-05-26,Clothing,West,In-Store,Male,30.0,142.61,1,0,142.61,4.0,8,0
+ORD-11419,2023-12-03,Sports,West,Website,Female,50.0,148.6,2,20,237.76,5.0,4,0
+ORD-11420,2023-10-04,Home & Kitchen,Central,Mobile App,Male,70.0,100.09,1,0,100.09,4.0,6,0
+ORD-11421,2023-10-10,Sports,East,In-Store,Male,57.0,164.89,1,5,156.65,3.0,9,0
+ORD-11422,2023-08-07,Sports,South,Website,Female,32.0,175.15,1,5,166.39,5.0,6,0
+ORD-11423,2023-11-28,Sports,North,Mobile App,Other,69.0,112.84,4,5,428.79,4.0,10,0
+ORD-11424,2023-03-27,Electronics,North,Website,Male,49.0,483.47,1,0,483.47,4.0,8,0
+ORD-11425,2023-10-22,Books,North,Social Media,Female,59.0,44.81,2,0,89.62,5.0,6,0
+ORD-11426,2023-11-15,Home & Kitchen,Central,Mobile App,Female,70.0,188.59,2,15,320.6,4.0,9,0
+ORD-11427,2023-11-07,Home & Kitchen,Central,Website,Female,44.0,147.34,1,0,147.34,5.0,12,0
+ORD-11428,2023-01-02,Beauty,West,In-Store,Male,43.0,43.37,1,20,34.7,5.0,13,0
+ORD-11429,2023-03-11,Clothing,South,Website,Female,48.0,99.26,1,15,84.37,5.0,2,0
+ORD-11430,2023-08-01,Electronics,South,Website,Female,46.0,763.43,4,0,3053.72,2.0,7,0
+ORD-11431,2023-03-23,Home & Kitchen,East,Social Media,Other,40.0,246.26,3,0,738.78,5.0,3,0
+ORD-11432,2023-07-15,Clothing,North,Social Media,Female,47.0,71.92,1,10,64.73,4.0,7,0
+ORD-11433,2023-09-26,Home & Kitchen,North,Website,Female,62.0,90.99,5,0,454.95,4.0,11,1
+ORD-11434,2023-12-01,Electronics,Central,Website,Female,52.0,725.04,3,10,1957.61,5.0,10,0
+ORD-11435,2023-03-08,Clothing,East,Social Media,Female,53.0,98.31,3,0,294.93,5.0,4,0
+ORD-11436,2023-11-19,Home & Kitchen,North,Mobile App,Female,30.0,86.83,1,25,65.12,3.0,9,1
+ORD-11437,2023-10-20,Electronics,East,In-Store,Female,32.0,383.46,1,15,325.94,4.0,13,1
+ORD-11438,2023-02-13,Clothing,East,Website,Female,62.0,125.69,1,0,125.69,2.0,2,0
+ORD-11439,2023-07-15,Electronics,South,Website,Female,67.0,251.62,1,0,251.62,4.0,5,0
+ORD-11440,2023-07-24,Sports,North,Website,Female,36.0,103.73,4,10,373.43,3.0,1,0
+ORD-11441,2023-07-27,Home & Kitchen,North,Mobile App,Male,45.0,92.47,1,0,92.47,5.0,3,0
+ORD-11442,2023-01-26,Home & Kitchen,Central,In-Store,Male,39.0,244.7,4,5,929.86,4.0,13,0
+ORD-11443,2023-08-10,Books,South,Social Media,Male,31.0,18.63,2,20,29.81,3.0,4,0
+ORD-11444,2023-12-24,Beauty,North,Website,Male,25.0,96.57,2,15,164.17,4.0,1,0
+ORD-11445,2023-12-09,Clothing,South,Mobile App,Female,30.0,99.36,1,0,99.36,4.0,3,0
+ORD-11446,2023-12-04,Home & Kitchen,South,In-Store,Female,58.0,157.98,1,5,150.08,5.0,9,0
+ORD-11447,2023-04-22,Electronics,West,In-Store,Female,32.0,,2,20,669.66,4.0,13,0
+ORD-11448,2023-05-13,Home & Kitchen,Central,In-Store,Female,44.0,211.98,2,10,381.56,4.0,5,1
+ORD-11449,2023-10-12,Electronics,East,In-Store,Male,52.0,526.55,1,10,473.9,4.0,7,0
+ORD-11450,2023-08-26,Electronics,Central,Mobile App,Female,67.0,428.06,1,10,385.25,4.0,11,0
+ORD-11451,2023-09-02,Beauty,East,In-Store,Female,21.0,66.2,1,15,56.27,2.0,2,0
+ORD-11452,2023-02-12,Clothing,East,Mobile App,Male,29.0,96.6,3,0,289.8,3.0,9,0
+ORD-11453,2023-04-17,Beauty,North,In-Store,Female,63.0,49.87,2,0,99.74,4.0,12,0
+ORD-11454,2023-09-28,Home & Kitchen,South,Mobile App,Female,31.0,246.14,3,0,738.42,3.0,5,1
+ORD-11455,2023-01-15,Home & Kitchen,South,Website,Female,49.0,223.49,2,10,402.28,5.0,6,0
+ORD-11456,2023-08-18,Home & Kitchen,South,In-Store,Male,47.0,154.43,2,10,277.97,4.0,13,0
+ORD-11457,2023-08-26,Beauty,North,Website,Female,19.0,72.55,1,0,72.55,5.0,12,0
+ORD-11458,2023-02-22,Electronics,North,Mobile App,Male,46.0,508.64,1,0,508.64,3.0,2,0
+ORD-11459,2023-05-22,Beauty,West,In-Store,Female,49.0,88.15,2,0,176.3,4.0,14,0
+ORD-11460,2023-02-17,Clothing,Central,Mobile App,Male,40.0,74.64,1,25,55.98,3.0,5,1
+ORD-11461,2023-08-01,Electronics,Central,Mobile App,Male,42.0,465.23,1,0,465.23,3.0,8,0
+ORD-11462,2023-02-17,Beauty,East,Social Media,Male,23.0,74.8,2,0,149.6,3.0,2,1
+ORD-11463,2023-05-03,Electronics,South,Website,Female,23.0,419.64,3,15,1070.08,4.0,11,0
+ORD-11464,2023-03-10,Books,South,Mobile App,Male,64.0,51.94,1,25,38.96,5.0,13,0
+ORD-11465,2023-09-22,Sports,East,In-Store,Female,68.0,118.39,1,0,118.39,5.0,5,0
+ORD-11466,2023-06-30,Clothing,East,Social Media,Female,61.0,79.04,2,15,134.37,4.0,10,0
+ORD-11467,2023-03-11,Home & Kitchen,Central,Website,Female,64.0,253.1,1,5,240.44,2.0,11,0
+ORD-11468,2023-11-28,Home & Kitchen,East,Website,Male,59.0,196.15,2,0,392.3,5.0,13,0
+ORD-11469,2023-02-14,Home & Kitchen,East,In-Store,Male,37.0,241.76,5,0,1208.8,4.0,10,0
+ORD-11470,2023-06-10,Electronics,East,Mobile App,Male,65.0,254.27,3,5,724.67,3.0,4,0
+ORD-11471,2023-10-08,Home & Kitchen,East,Mobile App,Female,68.0,121.96,1,0,121.96,4.0,8,0
+ORD-11472,2023-01-12,Sports,South,Social Media,Male,25.0,132.68,1,20,106.14,4.0,5,0
+ORD-11473,2023-10-12,Electronics,North,Social Media,Female,40.0,265.43,2,15,451.23,4.0,6,0
+ORD-11474,2023-05-18,Beauty,Central,Mobile App,Male,60.0,89.18,4,15,303.21,4.0,11,0
+ORD-11475,2023-07-15,Beauty,West,Mobile App,Male,55.0,58.72,1,0,58.72,3.0,12,0
+ORD-11476,2023-07-02,Clothing,East,Mobile App,Female,45.0,141.62,1,20,113.3,4.0,11,0
+ORD-11477,2023-12-09,Beauty,North,Mobile App,Female,19.0,76.27,5,10,343.22,5.0,5,0
+ORD-11478,2023-07-26,Beauty,Central,Mobile App,Male,18.0,35.58,4,0,142.32,3.0,3,0
+ORD-11479,2023-01-03,Electronics,Central,Website,Female,51.0,417.97,3,10,1128.52,4.0,2,0
+ORD-11480,2023-08-04,Home & Kitchen,South,In-Store,Female,40.0,181.86,3,5,518.3,3.0,12,0
+ORD-11481,2023-12-24,Beauty,Central,Mobile App,Female,33.0,50.35,1,5,47.83,4.0,14,0
+ORD-11482,2023-06-10,Sports,East,Social Media,Female,,68.75,2,0,137.5,4.0,8,0
+ORD-11483,2023-07-15,Electronics,West,In-Store,Male,58.0,708.89,1,15,602.56,5.0,4,1
+ORD-11484,2023-05-03,Clothing,East,Mobile App,Male,55.0,90.86,1,20,72.69,4.0,5,0
+ORD-11485,2023-12-31,Books,East,Website,Male,34.0,39.47,2,15,67.1,4.0,11,0
+ORD-11486,2023-02-09,Clothing,East,Website,Male,48.0,96.09,2,0,192.18,5.0,5,0
+ORD-11487,2023-09-09,Clothing,Central,Website,Female,42.0,78.97,3,0,236.91,5.0,8,0
+ORD-11488,2023-08-25,Electronics,East,In-Store,Female,61.0,652.58,2,10,1174.64,5.0,2,0
+ORD-11489,2023-11-29,Electronics,West,Mobile App,Female,48.0,335.81,1,15,285.44,4.0,10,0
+ORD-11490,2023-06-26,Clothing,South,In-Store,Male,68.0,130.55,1,5,124.02,4.0,9,0
+ORD-11491,2023-01-27,Clothing,West,Website,Male,43.0,111.33,3,15,283.89,4.0,11,1
+ORD-11492,2023-12-20,Books,South,In-Store,Male,51.0,17.29,1,10,15.56,5.0,3,0
+ORD-11493,2023-10-03,Beauty,West,Social Media,Female,20.0,78.06,2,10,140.51,5.0,5,0
+ORD-11494,2023-02-25,Electronics,West,Website,Male,47.0,436.5,1,5,414.67,4.0,12,0
+ORD-11495,2023-10-10,Clothing,Central,Website,Male,22.0,128.36,1,5,121.94,5.0,14,0
+ORD-11496,2023-04-22,Sports,Central,Social Media,Female,68.0,92.99,5,25,348.71,2.0,8,1
+ORD-11497,2023-08-08,Sports,South,Mobile App,Female,67.0,149.65,3,0,448.95,4.0,1,0
+ORD-11498,2023-08-15,Electronics,South,Website,Female,44.0,250.98,4,0,1003.92,3.0,7,0
+ORD-11499,2023-08-26,Home & Kitchen,West,In-Store,Female,45.0,184.95,1,10,166.46,4.0,4,0
